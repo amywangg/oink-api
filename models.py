@@ -9,7 +9,7 @@ class Customer(db.Model):
     email = db.Column(db.String(100))
     budgets = db.relationship('budget', backref='customer', lazy=True)
     purchases = db.relationship('purchase', backref='customer', lazy=True)
-        backref=db.backref('purchase', lazy='joined'))
+    backref=db.backref('purchase', lazy='joined')
 
     def __init__(self, name, author, published):
         self.id = id
@@ -63,7 +63,7 @@ class Purchase(db.Model):
     total_amount = db.Column(db.Float(),nullable=False)
     date = db.Column(db.DateTime())
     items = db.relationship('item', backref='purchase', lazy=True)
-        backref=db.backref('purchase', lazy='joined'))
+    backref=db.backref('purchase', lazy='joined')
 
     def __init__(self, name, author, published):
         self.id = id
