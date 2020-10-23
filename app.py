@@ -1,29 +1,19 @@
+# clientID google api:
+# 769564108089-kjitojja4egodmt4n8qor9jj12af2uh4.apps.googleusercontent.com
+# client secret:
+# ofsJooS741avaDef_-wud46T
 # app.py
 from flask import Flask, request, jsonify
+from flask_sqlalchemy import SQLAlchemy
+import os
+
 app = Flask(__name__)
 
-@app.route('/getmsg/', methods=['GET'])
-def respond():
-    # Retrieve the name from url parameter
-    name = request.args.get("name", None)
+app.config.from_object(os.environ['APP_SETTINGS'])
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+db = SQLAlchemy(app)
 
-    # For debugging
-    print(f"got name {name}")
-
-    response = {}
-
-    # Check if user sent a name at all
-    if not name:
-        response["ERROR"] = "no name found, please send a name."
-    # Check if the user entered a number not a name
-    elif str(name).isdigit():
-        response["ERROR"] = "name can't be numeric."
-    # Now the user entered a valid name
-    else:
-        response["MESSAGE"] = f"Welcome {name} to our awesome platform!!"
-
-    # Return the response in json format
-    return jsonify(response)
+from models import Customer, Budget, Purchase, Item
 
 @app.route('/post/', methods=['POST'])
 def post_something():
