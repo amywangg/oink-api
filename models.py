@@ -39,10 +39,9 @@ class Budget(db.Model):
         'customer.id'), nullable=False)
     budget = db.Column(db.Float(), nullable=False)
     category = db.Column(db.String(100))
-    date = db.Column(db.DateTime())
+    date = db.Column(db.DateTime(), default=datetime.datetime.utcnow)
 
-    def __init__(self, name, author, published):
-        self.id = id
+    def __init__(self, customer_id, budget, category, date):
         self.customer_id = customer_id
         self.budget = budget
         self.category = category
@@ -68,15 +67,13 @@ class Purchase(db.Model):
     customer_id = db.Column(db.String(100), db.ForeignKey(
         'customer.id'), nullable=False)
     total_amount = db.Column(db.Float(), nullable=False)
-    date = db.Column(db.DateTime())
+    date = db.Column(db.DateTime(), default=datetime.datetime.utcnow)
     items = db.relationship('Item', backref='purchase', lazy=True)
     backref = db.backref('Purchase', lazy='joined')
 
-    def __init__(self, name, author, published):
-        self.id = id
+    def __init__(self, customer_id, total_amount):
         self.customer_id = customer_id
         self.total_amount = total_amount
-        self.date = date
 
     def __repr__(self):
         return '<id {}>'.format(self.id)
@@ -98,14 +95,12 @@ class Item(db.Model):
         'purchase.id'), nullable=False)
     price = db.Column(db.Float(), nullable=False)
     category = db.Column(db.String(100))
-    date = db.Column(db.DateTime())
+    date = db.Column(db.DateTime(), default=datetime.datetime.utcnow)
 
-    def __init__(self, name, author, published):
-        self.id = id
+    def __init__(self, purchase_id, price, category):
         self.purchase_id = purchase_id
         self.price = price
         self.category = category
-        self.date = date
 
     def __repr__(self):
         return '<id {}>'.format(self.id)
