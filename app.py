@@ -1,10 +1,10 @@
 # app.py
 from flask import Flask, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
+from models import Customer, Budget, Purchase, Item
 from flask_cors import CORS
 from customer import customer
 from budget import budget
-from models import Customer, Budget, Purchase, Item
 
 import os
 
@@ -18,7 +18,7 @@ CORS(app)
 app.config['CORS_HEADERS'] = 'Content-Type'
 
 app.config.from_object(os.environ['APP_SETTINGS'])
-app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = True
 app.config['SQLALCHEMY_ECHO'] = True
 db = SQLAlchemy(app)
 
