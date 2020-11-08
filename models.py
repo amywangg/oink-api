@@ -1,4 +1,5 @@
 from app import SQLAlchemy
+from sqlalchemy.sql import func
 db = SQLAlchemy()
 
 
@@ -39,9 +40,10 @@ class Budget(db.Model):
         'customer.id'), nullable=False)
     budget = db.Column(db.Float(), nullable=False)
     category = db.Column(db.String(100))
-    date = db.Column(db.DateTime(), default=datetime.datetime.utcnow)
+    date = db.Column(db.DateTime(), server_default=func.now())
 
-    def __init__(self, customer_id, budget, category, date):
+    def __init__(self, id, customer_id, budget, category, date):
+        self.id = id
         self.customer_id = customer_id
         self.budget = budget
         self.category = category
@@ -67,11 +69,12 @@ class Purchase(db.Model):
     customer_id = db.Column(db.String(100), db.ForeignKey(
         'customer.id'), nullable=False)
     total_amount = db.Column(db.Float(), nullable=False)
-    date = db.Column(db.DateTime(), default=datetime.datetime.utcnow)
+    date = db.Column(db.DateTime(), server_default=func.now())
     items = db.relationship('Item', backref='purchase', lazy=True)
     backref = db.backref('Purchase', lazy='joined')
 
-    def __init__(self, customer_id, total_amount):
+    def __init__(self, id, customer_id, total_amount):
+        self.id = id
         self.customer_id = customer_id
         self.total_amount = total_amount
 
@@ -95,9 +98,10 @@ class Item(db.Model):
         'purchase.id'), nullable=False)
     price = db.Column(db.Float(), nullable=False)
     category = db.Column(db.String(100))
-    date = db.Column(db.DateTime(), default=datetime.datetime.utcnow)
+    date = db.Column(db.DateTime(), server_default=func.now())
 
-    def __init__(self, purchase_id, price, category):
+    def __init__(self, id, purchase_id, price, category):
+        self.id = id
         self.purchase_id = purchase_id
         self.price = price
         self.category = category
