@@ -14,8 +14,8 @@ class Customer(db.Model):
     purchases = db.relationship('Purchase', backref='customer', lazy=True)
     backref = db.backref('Customer', lazy='joined')
 
-    def __init__(self, id, first_name, last_name, email):
-        self.id = id
+    def __init__(self, client_id, first_name, last_name, email):
+        self.id = client_id
         self.first_name = first_name
         self.last_name = last_name
         self.email = email
@@ -42,12 +42,10 @@ class Budget(db.Model):
     category = db.Column(db.String(100))
     date = db.Column(db.DateTime(), server_default=func.now())
 
-    def __init__(self, id, customer_id, budget, category, date):
-        self.id = id
+    def __init__(self, customer_id, budget, category):
         self.customer_id = customer_id
         self.budget = budget
         self.category = category
-        self.date = date
 
     def __repr__(self):
         return '<id {}>'.format(self.id)
@@ -73,8 +71,7 @@ class Purchase(db.Model):
     items = db.relationship('Item', backref='purchase', lazy=True)
     backref = db.backref('Purchase', lazy='joined')
 
-    def __init__(self, id, customer_id, total_amount):
-        self.id = id
+    def __init__(self, customer_id, total_amount):
         self.customer_id = customer_id
         self.total_amount = total_amount
 
@@ -100,8 +97,7 @@ class Item(db.Model):
     category = db.Column(db.String(100))
     date = db.Column(db.DateTime(), server_default=func.now())
 
-    def __init__(self, id, purchase_id, price, category):
-        self.id = id
+    def __init__(self, purchase_id, price, category):
         self.purchase_id = purchase_id
         self.price = price
         self.category = category
