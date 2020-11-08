@@ -1,35 +1,26 @@
-# clientID google api:
-# 769564108089-kjitojja4egodmt4n8qor9jj12af2uh4.apps.googleusercontent.com
-# client secret:
-# ofsJooS741avaDef_-wud46T
 # app.py
 from flask import Flask, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
+from flask_cors import CORS
+from customer import customer
+from budget import budget
+from models import Customer, Budget, Purchase, Item
+
 import os
 
 app = Flask(__name__)
+# register blueprint routes
+app.register_blueprint(customer, url_prefix='/user')
+app.register_blueprint(budget, url_prefix='/budget')
+
+# allow for cross origin requests
+CORS(app)
+app.config['CORS_HEADERS'] = 'Content-Type'
 
 app.config.from_object(os.environ['APP_SETTINGS'])
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+app.config['SQLALCHEMY_ECHO'] = True
 db = SQLAlchemy(app)
-
-from models import Customer, Budget, Purchase, Item
-
-@app.route('/post/', methods=['POST'])
-def post_something():
-    param = request.form.get('name')
-    print(param)
-    # You can add the test cases you made in the previous function, but in our case here you are just testing the POST functionality
-    if param:
-        return jsonify({
-            "Message": f"Welcome {name} to our awesome platform!!",
-            # Add this option to distinct the POST request
-            "METHOD" : "POST"
-        })
-    else:
-        return jsonify({
-            "ERROR": "no name found, please send a name."
-        })
 
 # A welcome message to test our server
 @app.route('/')
