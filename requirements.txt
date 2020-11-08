@@ -17,6 +17,7 @@ docx2txt==0.8
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.5/en_core_web_sm-2.2.5.tar.gz#egg=en_core_web_sm
 filelock==3.0.12
 Flask==1.1.2
+Flask-Cors==3.0.9
 Flask-Migrate==2.5.3
 Flask-MySQL==1.5.1
 Flask-MySQLdb==0.2.0
