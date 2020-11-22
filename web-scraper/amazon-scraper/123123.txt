@@ -1,0 +1,4414 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!doctype html><html class="a-no-js" data-19ax5a9jf="dingo">
+<head><script>var aPageStart = (new Date()).getTime();</script><meta charset="utf-8">
+  <meta name="format-detection" content="telephone=no">
+
+
+
+<title dir="ltr">Amazon.ca Shopping Cart</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="a-state" data-a-state="{&quot;key&quot;:&quot;triggerExternalDependencies&quot;}">{"EbooksCart":{"weblab":"CE_KIDG_RENDER_EBOOKS_206434","cti":"Kindle/Kindle IN/ContentExperience","bindle":"MidgardService","assetsModule":"EbooksCartAsset","treatmentRegex":"T[12]"}}</script>
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+<script>
+(function(f,h,Q,E){function F(a){w&&w.tag&&w.tag(q(":","aui",a))}function u(a,b){w&&w.count&&w.count("aui:"+a,0===b?0:b||(w.count("aui:"+a)||0)+1)}function p(a){try{return a.test(navigator.userAgent)}catch(b){return!1}}function y(a,b,c){a.addEventListener?a.addEventListener(b,c,!1):a.attachEvent&&a.attachEvent("on"+b,c)}function q(a,b,c,e){b=b&&c?b+a+c:b||c;return e?q(a,b,e):b}function G(a,b,c){try{Object.defineProperty(a,b,{value:c,writable:!1})}catch(e){a[b]=c}return c}function va(a,b){var c=a.length,
+e=c,g=function(){e--||(R.push(b),S||(setTimeout(ca,0),S=!0))};for(g();c--;)da[a[c]]?g():(A[a[c]]=A[a[c]]||[]).push(g)}function wa(a,b,c,e,g){var d=h.createElement(a?"script":"link");y(d,"error",e);g&&y(d,"load",g);a?(d.type="text/javascript",d.async=!0,c&&/AUIClients|images[/]I/.test(b)&&d.setAttribute("crossorigin","anonymous"),d.src=b):(d.rel="stylesheet",d.href=b);h.getElementsByTagName("head")[0].appendChild(d)}function ea(a,b){return function(c,e){function g(){wa(b,c,d,function(b){T?u("resource_unload"):
+d?(d=!1,u("resource_retry"),g()):(u("resource_error"),a.log("Asset failed to load: "+c));b&&b.stopPropagation?b.stopPropagation():f.event&&(f.event.cancelBubble=!0)},e)}if(fa[c])return!1;fa[c]=!0;u("resource_count");var d=!0;return!g()}}function xa(a,b,c){for(var e={name:a,guard:function(c){return b.guardFatal(a,c)},logError:function(c,d,e){b.logError(c,d,e,a)}},g=[],d=0;d<c.length;d++)H.hasOwnProperty(c[d])&&(g[d]=U.hasOwnProperty(c[d])?U[c[d]](H[c[d]],e):H[c[d]]);return g}function B(a,b,c,e,g){return function(d,
+h){function n(){var a=null;e?a=h:"function"===typeof h&&(p.start=C(),a=h.apply(f,xa(d,k,l)),p.end=C());if(b){H[d]=a;a=d;for(da[a]=!0;(A[a]||[]).length;)A[a].shift()();delete A[a]}p.done=!0}var k=g||this;"function"===typeof d&&(h=d,d=E);b&&(d=d?d.replace(ha,""):"__NONAME__",V.hasOwnProperty(d)&&k.error(q(", reregistered by ",q(" by ",d+" already registered",V[d]),k.attribution),d),V[d]=k.attribution);for(var l=[],m=0;m<a.length;m++)l[m]=a[m].replace(ha,"");var p=ia[d||"anon"+ ++ya]={depend:l,registered:C(),
+namespace:k.namespace};c?n():va(l,k.guardFatal(d,n));return{decorate:function(a){U[d]=k.guardFatal(d,a)}}}}function ja(a){return function(){var b=Array.prototype.slice.call(arguments);return{execute:B(b,!1,a,!1,this),register:B(b,!0,a,!1,this)}}}function W(a,b){return function(c,e){e||(e=c,c=E);var g=this.attribution;return function(){z.push(b||{attribution:g,name:c,logLevel:a});var d=e.apply(this,arguments);z.pop();return d}}}function I(a,b){this.load={js:ea(this,!0),css:ea(this)};G(this,"namespace",
+b);G(this,"attribution",a)}function ka(){h.body?r.trigger("a-bodyBegin"):setTimeout(ka,20)}function D(a,b){a.className=X(a,b)+" "+b}function X(a,b){return(" "+a.className+" ").split(" "+b+" ").join(" ").replace(/^ | $/g,"")}function la(a){try{return a()}catch(b){return!1}}function J(){if(K){var a={w:f.innerWidth||n.clientWidth,h:f.innerHeight||n.clientHeight};5<Math.abs(a.w-Y.w)||50<a.h-Y.h?(Y=a,L=4,(a=k.mobile||k.tablet?450<a.w&&a.w>a.h:1250<=a.w)?D(n,"a-ws"):n.className=X(n,"a-ws")):0<L&&(L--,ma=
+setTimeout(J,16))}}function za(a){(K=a===E?!K:!!a)&&J()}function Aa(){return K}function v(a,b){return"sw:"+(b||"")+":"+a+":"}function na(){oa.forEach(function(a){F(a)})}function t(a){oa.push(a)}function pa(a,b,c,e){if(c){b=p(/Chrome/i)&&!p(/Edge/i)&&!p(/OPR/i)&&!a.capabilities.isAmazonApp&&!p(new RegExp(Z+"bwv"+Z+"b"));var g=v(e,"browser"),d=v(e,"prod_mshop"),f=v(e,"beta_mshop");!a.capabilities.isAmazonApp&&c.browser&&b&&(t(g+"supported"),c.browser.action(g,e));!b&&c.browser&&t(g+"unsupported");c.prodMshop&&
+t(d+"unsupported");c.betaMshop&&t(f+"unsupported")}}"use strict";var M=Q.now=Q.now||function(){return+new Q},C=function(a){return a&&a.now?a.now.bind(a):M}(f.performance),N=C(),l=f.AmazonUIPageJS||f.P;if(l&&l.when&&l.register){N=[];for(var m=h.currentScript;m;m=m.parentElement)m.id&&N.push(m.id);return l.log("A copy of P has already been loaded on this page.","FATAL",N.join(" "))}var w=f.ue;F();F("aui_build_date:3.20.7-2020-11-06");var R=[],S=!1;var ca=function(){for(var a=setTimeout(ca,0),b=M();R.length;)if(R.shift()(),
+50<M()-b)return;clearTimeout(a);S=!1};var da={},A={},fa={},T=!1;y(f,"beforeunload",function(){T=!0;setTimeout(function(){T=!1},1E4)});var ha=/^prv:/,V={},H={},U={},ia={},ya=0,Z=String.fromCharCode(92),z=[],qa=f.onerror;f.onerror=function(a,b,c,e,g){g&&"object"===typeof g||(g=Error(a,b,c),g.columnNumber=e,g.stack=b||c||e?q(Z,g.message,"at "+q(":",b,c,e)):E);var d=z.pop()||{};g.attribution=q(":",g.attribution||d.attribution,d.name);g.logLevel=d.logLevel;g.attribution&&console&&console.log&&console.log([g.logLevel||
+"ERROR",a,"thrown by",g.attribution].join(" "));z=[];qa&&(d=[].slice.call(arguments),d[4]=g,qa.apply(f,d))};I.prototype={logError:function(a,b,c,e){b={message:b,logLevel:c||"ERROR",attribution:q(":",this.attribution,e)};if(f.ueLogError)return f.ueLogError(a||b,a?b:null),!0;console&&console.error&&(console.log(b),console.error(a));return!1},error:function(a,b,c,e){a=Error(q(":",e,a,c));a.attribution=q(":",this.attribution,b);throw a;},guardError:W(),guardFatal:W("FATAL"),guardCurrent:function(a){var b=
+z[z.length-1];return b?W(b.logLevel,b).call(this,a):a},log:function(a,b,c){return this.logError(null,a,b,c)},declare:B([],!0,!0,!0),register:B([],!0),execute:B([]),AUI_BUILD_DATE:"3.20.7-2020-11-06",when:ja(),now:ja(!0),trigger:function(a,b,c){var e=M();this.declare(a,{data:b,pageElapsedTime:e-(f.aPageStart||NaN),triggerTime:e});c&&c.instrument&&O.when("prv:a-logTrigger").execute(function(b){b(a)})},handleTriggers:function(){this.log("handleTriggers deprecated")},attributeErrors:function(a){return new I(a)},
+_namespace:function(a,b){return new I(a,b)}};var r=G(f,"AmazonUIPageJS",new I);var O=r._namespace("PageJS","AmazonUI");O.declare("prv:p-debug",ia);r.declare("p-recorder-events",[]);r.declare("p-recorder-stop",function(){});G(f,"P",r);ka();if(h.addEventListener){var ra;h.addEventListener("DOMContentLoaded",ra=function(){r.trigger("a-domready");h.removeEventListener("DOMContentLoaded",ra,!1)},!1)}var n=h.documentElement,aa=function(){var a=["O","ms","Moz","Webkit"],b=h.createElement("div");return{testGradients:function(){b.style.cssText=
+"background-image:-webkit-gradient(linear,left top,right bottom,from(#1E4),to(white));background-image:-webkit-linear-gradient(left top,#1E4,white);background-image:linear-gradient(left top,#1E4,white);";return~b.style.backgroundImage.indexOf("gradient")},test:function(c){var e=c.charAt(0).toUpperCase()+c.substr(1);c=(a.join(e+" ")+e+" "+c).split(" ");for(e=c.length;e--;)if(""===b.style[c[e]])return!0;return!1},testTransform3d:function(){var a=!1;f.matchMedia&&(a=f.matchMedia("(-webkit-transform-3d)").matches);
+return a}}}();l=n.className;var sa=/(^| )a-mobile( |$)/.test(l),ta=/(^| )a-tablet( |$)/.test(l),k={audio:function(){return!!h.createElement("audio").canPlayType},video:function(){return!!h.createElement("video").canPlayType},canvas:function(){return!!h.createElement("canvas").getContext},svg:function(){return!!h.createElementNS&&!!h.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect},offline:function(){return navigator.hasOwnProperty&&navigator.hasOwnProperty("onLine")&&navigator.onLine},
+dragDrop:function(){return"draggable"in h.createElement("span")},geolocation:function(){return!!navigator.geolocation},history:function(){return!(!f.history||!f.history.pushState)},webworker:function(){return!!f.Worker},autofocus:function(){return"autofocus"in h.createElement("input")},inputPlaceholder:function(){return"placeholder"in h.createElement("input")},textareaPlaceholder:function(){return"placeholder"in h.createElement("textarea")},localStorage:function(){return"localStorage"in f&&null!==
+f.localStorage},orientation:function(){return"orientation"in f},touch:function(){return"ontouchend"in h},gradients:function(){return aa.testGradients()},hires:function(){var a=f.devicePixelRatio&&1.5<=f.devicePixelRatio||f.matchMedia&&f.matchMedia("(min-resolution:144dpi)").matches;u("hiRes"+(sa?"Mobile":ta?"Tablet":"Desktop"),a?1:0);return a},transform3d:function(){return aa.testTransform3d()},touchScrolling:function(){return p(/Windowshop|android|OS ([5-9]|[1-9][0-9]+)(_[0-9]{1,2})+ like Mac OS X|Chrome|Silk|Firefox|Trident.+?; Touch/i)},
+ios:function(){return p(/OS [1-9][0-9]*(_[0-9]*)+ like Mac OS X/i)&&!p(/trident|Edge/i)},android:function(){return p(/android.([1-9]|[L-Z])/i)&&!p(/trident|Edge/i)},mobile:function(){return sa},tablet:function(){return ta},rtl:function(){return"rtl"===n.dir}};for(m in k)k.hasOwnProperty(m)&&(k[m]=la(k[m]));for(var ba="textShadow textStroke boxShadow borderRadius borderImage opacity transform transition".split(" "),P=0;P<ba.length;P++)k[ba[P]]=la(function(){return aa.test(ba[P])});var K=!0,ma=0,Y=
+{w:0,h:0},L=4;J();y(f,"resize",function(){clearTimeout(ma);L=4;J()});var ua={getItem:function(a){try{return f.localStorage.getItem(a)}catch(b){}},setItem:function(a,b){try{return f.localStorage.setItem(a,b)}catch(c){}}};n.className=X(n,"a-no-js");D(n,"a-js");!p(/OS [1-8](_[0-9]*)+ like Mac OS X/i)||f.navigator.standalone||p(/safari/i)||D(n,"a-ember");l=[];for(m in k)k.hasOwnProperty(m)&&k[m]&&l.push("a-"+m.replace(/([A-Z])/g,function(a){return"-"+a.toLowerCase()}));D(n,l.join(" "));n.setAttribute("data-aui-build-date",
+"3.20.7-2020-11-06");r.register("p-detect",function(){return{capabilities:k,localStorage:k.localStorage&&ua,toggleResponsiveGrid:za,responsiveGridEnabled:Aa}});p(/UCBrowser/i)||k.localStorage&&D(n,ua.getItem("a-font-class"));r.declare("a-event-revised-handling",!1);try{var x=navigator.serviceWorker}catch(a){F("sw:nav_err")}x&&(y(x,"message",function(a){a&&a.data&&u(a.data.k,a.data.v)}),x.controller&&x.controller.postMessage("MSG-RDY"));var oa=[];l={reg:{},unreg:{}};l.reg.browser={action:function(a,
+b){x.register("/service-worker.js").then(function(){u(a+"success")}).catch(function(c){r.logError(c,"[AUI SW] Failed to "+b+" service worker: ");u(a+"failure")})}};(function(a){var b=a.reg,c=a.unreg;x&&x.getRegistrations?(O.when("A","a-util").execute(function(a,b){pa(a,b,c,"unregister")}),y(f,"load",function(){O.when("A","a-util").execute(function(a,c){pa(a,c,b,"register");na()})})):(b&&(b.browser&&t(v("register","browser")+"unsupported"),b.prodMshop&&t(v("register","prod_mshop")+"unsupported"),b.betaMshop&&
+t(v("register","beta_mshop")+"unsupported")),c&&(c.browser&&t(v("unregister","browser")+"unsupported"),c.prodMshop&&t(v("unregister","prod_mshop")+"unsupported"),c.betaMshop&&t(v("unregister","beta_mshop")+"unsupported")),na())})(l);r.declare("a-fix-event-off",!1);u("pagejs:pkgExecTime",C()-N)})(window,document,Date);
+(window.AmazonUIPageJS ? AmazonUIPageJS : P).when('cf').execute(function(){
+  (window.AmazonUIPageJS ? AmazonUIPageJS : P).load.js('https://images-na.ssl-images-amazon.com/images/I/61-6nKPKyWL._RC|11Y+5x+kkTL.js,51lmx8oxgoL.js,11HZwqTrxmL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014VApivrFL.js,21NNXfMitSL.js,11KoZmq92cL.js,51iiAqMjUoL.js,11AHlQhPRjL.js,01Gpt4sPPhL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,51A3Le4wx8L.js,3139553HcbL.js,01Gf12ogmOL.js,01ezj5Rkz1L.js,11EemQQsS-L.js,31pOTH2ZMRL.js,01rpauTep4L.js,01az6S7cXCL.js_.js?AUIClients/AmazonUI&GD5JBLH5#page_type-CartExperience.291928-T1.291922-T1');
+  (window.AmazonUIPageJS ? AmazonUIPageJS : P).load.js('https://images-na.ssl-images-amazon.com/images/I/31UM3Bd3BvL._RC|61qXmCkBKyL.js_.js?AUIClients/SharedShoppingCartDesktopAsset&nKSOprye#242807-T1');
+});
+(window.AmazonUIPageJS ? AmazonUIPageJS : P).when('triggerEbooksCartAsset').execute(function(){
+  (window.AmazonUIPageJS ? AmazonUIPageJS : P).load.js('https://images-na.ssl-images-amazon.com/images/I/11IWE36myJL.js?AUIClients/EbooksCartAsset');
+});
+(window.AmazonUIPageJS ? AmazonUIPageJS : P).when('ready').execute(function(){
+  (window.AmazonUIPageJS ? AmazonUIPageJS : P).load.js('https://images-na.ssl-images-amazon.com/images/I/51CHTgTCf5L.js?AUIClients/CartD12nAssets');
+});
+(window.AmazonUIPageJS ? AmazonUIPageJS : P).when('load').execute(function(){
+  (window.AmazonUIPageJS ? AmazonUIPageJS : P).load.js('https://images-na.ssl-images-amazon.com/images/I/01EhI4uAgHL.js?AUIClients/PerformanceResourceTimingAssets');
+});
+</script>
+
+
+
+<script type="text/javascript">
+var CartPerf = (function() {
+  var _hasUedata = (typeof uet == 'function');
+  var _startedLoading = false;
+
+  var loading = function() {
+    if (!_startedLoading && _isReportingEvents()) {
+      uet('cb');
+    }
+    _startedLoading = true;
+  };
+
+  var aboveTheFoldLoaded = function() {
+    if (_startedLoading && _isReportingEvents()) {
+      uet('af');
+    }
+  };
+
+  var functionalLoaded = function() {
+    if (_startedLoading && _isReportingEvents()) {
+      uet('fn');
+    }
+  };
+
+  var criticalFeatureLoaded = function() {
+    if (_startedLoading && _isReportingEvents()) {
+      uet('cf');
+    }
+  };
+
+  var x1Loaded = function () {
+    if (_startedLoading && _isReportingEvents()) {
+      uet('x1');
+    }
+  }
+
+  var _isReportingEvents = function() {
+    return _hasUedata;
+  };
+
+  var _hasUEForAJAXRequest = (typeof ues == 'function') && (typeof uex == 'function');
+  var _actionNumber = 0;
+  var _scope = "cart-ajax";
+
+  var getScope = function() {
+    return _scope;
+  }
+
+  var resetUEForAJAXRequest = function() {
+    _actionNumber++;
+    _scope = "cart-ajax-" + _actionNumber;
+    if (window.ue && _hasUedata && _hasUEForAJAXRequest) {
+      uet("tc", _scope);         // set time-of-click
+      ues("ctb", _scope, "1");   // set ctb flag
+    }
+  }
+
+  // set start time
+  var setStartTimeForAJAXRequest = function(scope) {
+    if (window.ue && _hasUedata && _hasUEForAJAXRequest) {
+      var csmScopeId = scope || _scope;
+      ues("t0", csmScopeId, new Date());
+    }
+  }
+
+  // set request ID
+  var setIDForAJAXRequest = function(rid, scope) {
+    if (window.ue && _hasUedata && _hasUEForAJAXRequest) {
+      var csmScopeId = scope || _scope;
+      ues("id", csmScopeId, rid);
+    }
+  }
+
+  // record the event of critical feature loaded
+  var cfLoadedForAJAXRequest = function() {
+    if (window.ue && _hasUedata && _hasUEForAJAXRequest) {
+      uet("cf", _scope);
+    }
+  }
+  
+  var atfLoadedForAJAXRequest = function() {
+    if (window.ue && _hasUedata && _hasUEForAJAXRequest) {
+      uet("af", _scope);
+    }
+  }
+
+  var fnLoadedForAJAXRequest = function() {
+    if (window.ue && _hasUedata && _hasUEForAJAXRequest) {
+      uet("fn", _scope);
+    }
+  }
+
+  // record the event of page loaded
+  var pageLoadedForAJAXRequest = function(scope) {
+    if (window.ue && _hasUedata && _hasUEForAJAXRequest) {
+      var csmScopeId = scope || _scope;
+      uex("ld", csmScopeId);
+    }
+  }
+  
+  var x1LoadedForAJAXRequest = function() {
+    if (window.ue && _hasUedata && _hasUEForAJAXRequest) {
+      uet("x1", _scope);
+    }
+  }
+
+  var x2LoadedForAJAXRequest = function() {
+    if (window.ue && _hasUedata && _hasUEForAJAXRequest) {
+      uet("x2", _scope);
+    }
+  }
+
+  var x3LoadedForAJAXRequest = function() {
+    if (window.ue && _hasUedata && _hasUEForAJAXRequest) {
+      uet("x3", _scope);
+    }
+  }
+
+  var x2Loaded = function () {
+    if (_startedLoading && _isReportingEvents()) {
+      uet('x2');
+    }
+  }
+
+  var x3Loaded = function () {
+    if (_startedLoading && _isReportingEvents()) {
+      uet('x3');
+    }
+  }
+
+  loading();
+
+  return {
+    aboveTheFoldLoaded:         aboveTheFoldLoaded,
+    atfLoadedForAJAXRequest:    atfLoadedForAJAXRequest,
+    functionalLoaded:           functionalLoaded,
+    fnLoadedForAJAXRequest:     fnLoadedForAJAXRequest,
+    cfLoadedForAJAXRequest:     cfLoadedForAJAXRequest,
+    criticalFeatureLoaded:      criticalFeatureLoaded,
+    x1Loaded:                   x1Loaded,
+    getScope:                   getScope,
+    pageLoadedForAJAXRequest:   pageLoadedForAJAXRequest,
+    resetUEForAJAXRequest:      resetUEForAJAXRequest,
+    setIDForAJAXRequest:        setIDForAJAXRequest,
+    setStartTimeForAJAXRequest: setStartTimeForAJAXRequest,
+    x1LoadedForAJAXRequest:     x1LoadedForAJAXRequest,
+    x2Loaded:                   x2Loaded,
+    x2LoadedForAJAXRequest:     x2LoadedForAJAXRequest,
+    x3Loaded:                   x3Loaded,
+    x3LoadedForAJAXRequest:     x3LoadedForAJAXRequest,
+  };
+})();
+</script>
+
+
+<link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/I/11EIQ5IGqaL._RC|01ZTHTZObnL.css,4149ab8IFDL.css,31-i8YryGhL.css,017DsKjNQJL.css,013z33uKh2L.css,01zAp95w-aL.css,41EWOOlBJ9L.css,11UoGyLuXoL.css,01ElnPiDxWL.css,11QxHU4QYaL.css,01Sp8sB1HiL.css,01IdKcBuAdL.css,01y-XAlI+2L.css,21q5xjY8vXL.css,01K+Ps1DeEL.css,314djKvMsUL.css,21j0IlW7xKL.css,01ZTetsDh7L.css,11A7vR6GVPL.css,21-X6dl-cgL.css,11L58Qpo0GL.css,21kyTi1FabL.css,01ruG+gDPFL.css,01YhS3Cs-hL.css,31C80IiXalL.css,119wBQfnU9L.css,119I1lTJONL.css,11M4XwS6hxL.css,11WgRxUdJRL.css,019emucr87L.css,11JQtnL-6eL.css,11k89RclloL.css,11OxCoGkNYL.css,01QrWuRrZ-L.css,21pIv-yKhaL.css,11LyZ3b1QqL.css,11kwKGWmBfL.css,11F2+OBzLyL.css,01piEq-AdwL.css,11Z1a0FxSIL.css,01cbS3UK11L.css,21B5OR-vv2L.css,01giMEP+djL.css_.css?AUIClients/AmazonUI&PYoStpNC#page_type-CartExperience.not-trident.282109-T1.291928-T1.291922-T1.278290-T2" />
+<link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/I/31cmlT11hoL._RC|41UTe8s+CML.css,01goIIPoVxL.css_.css?AUIClients/SharedShoppingCartDesktopAsset&9Ppx7qNT#desktop.242807-T1" />
+<link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/I/31OtT0ueKvL.css?AUIClients/EbooksCartAsset" />
+<link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/I/31a1u7chR%2BL.css?AUIClients/CartD12nAssets" />
+
+
+</head><!-- for head -->
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+    
+    
+    
+    
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body class="a-aui_149818-c a-aui_152852-c a-aui_157141-c a-aui_160684-c a-aui_57326-c a-aui_72554-c a-aui_accessibility_49860-c a-aui_attr_validations_1_51371-c a-aui_bolt_62845-c a-aui_pci_risk_banner_210084-c a-aui_perf_130093-c a-aui_tnr_v2_180836-c a-aui_ux_113788-c a-aui_ux_114039-c a-aui_ux_138741-c a-aui_ux_145937-c a-aui_ux_60000-c"><div id="a-page"><script type="a-state" data-a-state="{&quot;key&quot;:&quot;a-wlab-states&quot;}">{"AUI_149818":null,"AUI_152852":null,"AUI_157141":null,"AUI_160684":null,"AUI_57326":null,"AUI_72554":null,"AUI_ACCESSIBILITY_49860":null,"AUI_ATTR_VALIDATIONS_1_51371":null,"AUI_BOLT_62845":null,"AUI_PCI_RISK_BANNER_210084":null,"AUI_PERF_130093":null,"AUI_TNR_V2_180836":null,"AUI_UX_113788":null,"AUI_UX_114039":null,"AUI_UX_138741":null,"AUI_UX_145937":null,"AUI_UX_60000":null}</script>
+  <div id="top" class="a-section a-spacing-none">
+    <!-- BeginNav --><script type="text/javascript">var nav_t_begin_nav = + new Date();</script><!-- From remote config --><style type="text/css">
+
+.nav-sprite-v1 .nav-sprite, .nav-sprite-v1 .nav-icon {
+  background-image: url(https://images-na.ssl-images-amazon.com/images/G/15/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405936603_.png);
+  background-position: 0 1000px;
+  background-repeat: repeat-x;
+}
+.nav-spinner {
+  background-image: url(https://images-na.ssl-images-amazon.com/images/G/15/javascripts/lib/popover/images/snake._CB485935611_.gif);
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.nav-timeline-icon, .nav-access-image, .nav-timeline-prime-icon {
+  background-image: url(https://images-na.ssl-images-amazon.com/images/G/15/gno/sprites/timeline_sprite_1x._CB439967808_.png);
+  background-repeat: no-repeat;
+}
+</style>
+<script type="text/javascript">var nav_t_after_inline_CSS = + new Date();</script>
+
+<!-- NAVYAAN CSS -->
+
+<link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/I/41icwgAxVqL._RC|71oz-TyATIL.css,21qFIynv1ZL.css,31FX6DlOvlL.css,21lRUdwotiL.css,41oKRlyPnmL.css,11G4HxMtMSL.css,31OvHRW+XiL.css,01XHMOHpK1L.css_.css?AUIClients/NavDesktopUberAsset&CUCrNkbU#desktop.309131-T2" />
+<!-- NAVYAAN JS -->
+
+<script>
+(window.AmazonUIPageJS ? AmazonUIPageJS : P).when('navCF').execute(function() {
+  (window.AmazonUIPageJS ? AmazonUIPageJS : P).load.js('https://images-na.ssl-images-amazon.com/images/I/41X5NPwXigL._RC|71Bg40iDPxL.js,61l-paIJdLL.js,41W9ohA0e+L.js,11vrNkbdcvL.js,21cmvUGs-3L.js,41DFEkYe9bL.js,517+5hCcu5L.js,31odYvSoo1L.js_.js?AUIClients/NavDesktopUberAsset&HNZoS3wM#desktop.292977-T3.312593-T1');
+});
+</script>
+<!-- From remote config v3-->
+<script type="text/javascript">
+(function(d){document.createElement("header");function b(e){return[].slice.call(e)}function c(f,e){return{m:f,a:b(e)}}var a=function(f){var g={};g._sourceName=f;g._replay=[];g.getNow=function(i,h){return h};function e(i,h,j){i[j]=function(){g._replay.push(h.concat(c(j,arguments)))}}g.when=function(){var i=[c("when",arguments)];var h={};e(h,i,"run");e(h,i,"declare");e(h,i,"publish");e(h,i,"build");return h};e(g,[],"declare");e(g,[],"build");e(g,[],"publish");e(g,[],"importEvent");a._shims.push(g);return g};a._shims=[];if(!d.$Nav){d.$Nav=a("rcx-nav")}if(!d.$Nav.make){d.$Nav.make=a}}(window));
+$Nav.importEvent('navbarJS-beaconbelt');
+$Nav.declare('img.sprite', {
+  'png8': 'https://images-na.ssl-images-amazon.com/images/G/15/gno/sprites/global-sprite_bluebeacon-v1._CB485918456_.png',
+  'png32': 'https://images-na.ssl-images-amazon.com/images/G/15/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405936603_.png',
+  'png32-2x': 'https://images-na.ssl-images-amazon.com/images/G/15/gno/sprites/nav-sprite-global-2x-hm-dsk-reorg._CB405936603_.png'
+});
+$Nav.declare('img.timeline', {
+  'timeline-icon-2x': 'https://images-na.ssl-images-amazon.com/images/G/15/gno/sprites/timeline_sprite_2x._CB443581337_.png'
+});
+window._navbarSpriteUrl = 'https://images-na.ssl-images-amazon.com/images/G/15/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405936603_.png';
+$Nav.declare('img.pixel', 'https://images-na.ssl-images-amazon.com/images/G/15/x-locale/common/transparent-pixel._CB485935025_.gif');
+</script>
+<img src="https://images-na.ssl-images-amazon.com/images/G/15/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405936603_.png" style="display:none" alt=""/>
+<!--[if IE 6]>
+<style type="text/css"><!--
+  #navbar.nav-sprite-v3 .nav-sprite {
+    background-image: url(https://images-na.ssl-images-amazon.com/images/G/15/gno/sprites/global-sprite_bluebeacon-v1._CB485918456_.png);
+  }
+--></style>
+<![endif]-->
+<script type="text/javascript">var nav_t_after_preload_sprite = + new Date();</script>
+
+
+
+
+
+
+
+
+
+  <!-- NAVYAAN -->
+
+
+
+
+
+
+
+
+<!--Pilu -->
+
+<!-- navmet initial definition -->
+
+
+<script type='text/javascript'>
+    if(window.navmet===undefined) {
+      window.navmet=[];
+      if (window.performance && window.performance.timing && window.ue_t0) {
+        var t = window.performance.timing;
+        var now = + new Date();
+        window.navmet.basic = {
+          'networkLatency': (t.responseStart - t.fetchStart),
+          'navFirstPaint': (now - t.responseStart),
+          'NavStart': (now - window.ue_t0)
+        };
+      }
+    }
+</script>
+
+
+
+
+<script type='text/javascript'>window.navmet.tmp=+new Date();</script>
+  <script type='text/javascript'>
+    window.uet && uet('ns');
+    window._navbar = (function (o) {
+      o.componentLoaded = o.loading = function(){};
+      o.browsepromos = {};
+      o.issPromos = [];
+      return o;
+    }(window._navbar || {}));
+    window._navbar.declareOnLoad = function () { window.$Nav && $Nav.declare('page.load'); };
+    if (window.addEventListener) {
+      window.addEventListener("load", window._navbar.declareOnLoad, false);
+    } else if (window.attachEvent) {
+      window.attachEvent("onload", window._navbar.declareOnLoad);
+    } else if (window.$Nav) {
+      $Nav.when('page.domReady').run("OnloadFallbackSetup", function () {
+        window._navbar.declareOnLoad();
+      });
+    }
+    window.$Nav && $Nav.declare('logEvent.enabled',
+      'false');
+
+    window.$Nav && $Nav.declare('config.lightningDeals', {});
+  </script>
+
+    <style mark="aboveNavInjectionCSS" type="text/css">
+      div#navSwmHoliday.nav-focus {border: none;margin: 0;}#navbar.nav-pinned-pinata #nav-tools .nav-line-3 { height: 16px;line-height:16px;}div#navSwmHoliday.nav-focus {border-bottom: none;margin-top: 0;}
+    </style>
+    <script mark="aboveNavInjectionJS" type="text/javascript">
+      try {
+        window.$Nav && $Nav.when('$').run('defineIsArray', function(jQuery) { if(jQuery.isArray===undefined) { jQuery.isArray=function(param) { if(param.length===undefined) { return false; } return true; }; } }); window.$Nav && window.$Nav.when("$","subnav.initFlyouts","constants","nav.inline").build("subnav.builder",function(a,t,e){var n=a("#navbar");return function(s){var r=a("#nav-subnav");if(0===r.length&&(r=a("<div id='nav-subnav'></div>").appendTo("#navbar")),r.html(""),n.removeClass("nav-subnav"),s.categoryKey&&s.digest){r.attr("data-category",s.categoryKey).attr("data-digest",s.digest).attr("class",s.category.data.categoryStyle),s.style?r.attr("style",s.style):r.attr("style")&&r.removeAttr("style");var i=function(t){if(t&&t.href){var n="nav-a",s=t.text,i=t.dataKey;if(!s&&!t.image){if(!i||0!==i.indexOf(e.ADVANCED_PREFIX))return;s="",n+=" nav-aText"}var d=t.image?"<img src='"+t.image+"'class='nav-categ-image' ></a>":s,l=a("<a href='"+t.href+"' class='"+n+"'></a>"),v=a("<span class='nav-a-content'>"+d+"</span>");if("image"===t.type&&(v.html(""),l.addClass("nav-hasImage"),t.rightText=""),t.bold&&!t.image&&l.addClass("nav-b"),t.floatRight&&l.addClass("nav-right"),t.flyoutFullWidth&&"0"!==t.flyoutFullWidth&&l.attr("data-nav-flyout-full-width","1"),t.src){var g=["nav-image"];t["absolute-right"]&&g.push("nav-image-abs-right"),t["absolute-right"]&&g.push("nav-image-abs-right"),a("<img src='"+t.src+"' class='"+g.join(" ")+"' alt='"+(t.alt||"")+"' />").appendTo(v)}t.rightText&&v.append(t.rightText),v.appendTo(l),i&&(a("<span class='nav-arrow'></span>").appendTo(l),l.attr("data-nav-key",i).addClass("nav-hasArrow")),l.appendTo(r),r.append(document.createTextNode(" "))}};if(s.category&&s.category.data&&(s.category.data.bold=!0,i(s.category.data)),s.subnav&&"linkSequence"===s.subnav.type)for(var d=0;d<s.subnav.data.length;d++)i(s.subnav.data[d]);n.addClass("nav-subnav"),t()}}}); window.$Nav && $Nav.when('$','$F','config','logEvent','panels','phoneHome','dataPanel','flyouts.renderPromo','flyouts.sloppyTrigger','flyouts.accessibility','util.mouseOut','util.onKey','debug.param').build('flyouts.buildSubPanels',function($,$F,config,logEvent,panels,phoneHome,dataPanel,renderPromo,createSloppyTrigger,a11yHandler,mouseOutUtility,onKey,debugParam){var flyoutDebug=debugParam('navFlyoutClick');return function(flyout,event){var linkKeys=[];$('.nav-item',flyout.elem()).each(function(){var $item=$(this);linkKeys.push({link:$item,panelKey:$item.attr('data-nav-panelkey')});});if(linkKeys.length===0){return;} var visible=false;var $parent=$('<div class=\'nav-subcats\'></div>').appendTo(flyout.elem());var panelGroup=flyout.getName()+'SubCats';var hideTimeout=null;var sloppyTrigger=createSloppyTrigger($parent);var showParent=function(){if(hideTimeout){clearTimeout(hideTimeout);hideTimeout=null;} if(visible){return;} var height=$('#nav-flyout-shopAll').height();$parent.css({'height': height});$parent.animate({width:'show'},{duration:200,complete:function(){$parent.css({overflow:'visible'});}});visible=true;};var hideParentNow=function(){$parent.stop().css({overflow:'hidden',display:'none',width:'auto',height:'auto'});panels.hideAll({group:panelGroup});visible=false;if(hideTimeout){clearTimeout(hideTimeout);hideTimeout=null;}};var hideParent=function(){if(!visible){return;} if(hideTimeout){clearTimeout(hideTimeout);hideTimeout=null;} hideTimeout=setTimeout(hideParentNow,10);};flyout.onHide(function(){sloppyTrigger.disable();hideParentNow();this.elem().hide();});var addPanel=function($link,panelKey){var panel=dataPanel({className:'nav-subcat',dataKey:panelKey,groups:[panelGroup],spinner:false,visible:false});if(!flyoutDebug){var mouseout=mouseOutUtility();mouseout.add(flyout.elem());mouseout.action(function(){panel.hide();});mouseout.enable();} var a11y=a11yHandler({link:$link,onEscape:function(){panel.hide();$link.focus();}});var logPanelInteraction=function(promoID,wlTriggers){var logNow=$F.once().on(function(){var panelEvent=$.extend({},event,{id:promoID});if(config.browsePromos&&!!config.browsePromos[promoID]){panelEvent.bp=1;} logEvent(panelEvent);phoneHome.trigger(wlTriggers);});if(panel.isVisible()&&panel.hasInteracted()){logNow();}else{panel.onInteract(logNow);}};panel.onData(function(data){renderPromo(data.promoID,panel.elem());logPanelInteraction(data.promoID,data.wlTriggers);});panel.onShow(function(){var columnCount=$('.nav-column',panel.elem()).length;panel.elem().addClass('nav-colcount-'+columnCount);showParent();var $subCatLinks=$('.nav-subcat-links > a',panel.elem());var length=$subCatLinks.length;if(length>0){var firstElementLeftPos=$subCatLinks.eq(0).offset().left;for(var i=1;i<length;i++){if(firstElementLeftPos===$subCatLinks.eq(i).offset().left){$subCatLinks.eq(i).addClass('nav_linestart');}} if($('span.nav-title.nav-item',panel.elem()).length===0){var catTitle=$.trim($link.html());catTitle=catTitle.replace(/ref=sa_menu_top/g,'ref=sa_menu');var $subPanelTitle=$('<span class=\'nav-title nav-item\'>'+ catTitle+'</span>');panel.elem().prepend($subPanelTitle);}} $link.addClass('nav-active');});panel.onHide(function(){$link.removeClass('nav-active');hideParent();a11y.disable();sloppyTrigger.disable();});panel.onShow(function(){a11y.elems($('a, area',panel.elem()));});sloppyTrigger.register($link,panel);if(flyoutDebug){$link.click(function(){if(panel.isVisible()){panel.hide();}else{panel.show();}});} var panelKeyHandler=onKey($link,function(){if(this.isEnter()||this.isSpace()){panel.show();}},'keydown',false);$link.focus(function(){panelKeyHandler.bind();}).blur(function(){panelKeyHandler.unbind();});panel.elem().appendTo($parent);};var hideParentAndResetTrigger=function(){hideParent();sloppyTrigger.disable();};for(var i=0;i<linkKeys.length;i++){var item=linkKeys[i];if(item.panelKey){addPanel(item.link,item.panelKey);}else{item.link.mouseover(hideParentAndResetTrigger);}}};});
+      } catch ( err ) {
+        if ( window.$Nav ) {
+          window.$Nav.when('metrics', 'logUeError').run(function(metrics, log) {
+            metrics.increment('NavJS:AboveNavInjection:error');
+            log(err.toString(), {
+              'attribution': 'rcx-nav',
+              'logLevel': 'FATAL'
+            });
+          });
+        }
+      }
+    </script>
+
+  <noscript>
+    <style type="text/css"><!--
+      #navbar #nav-shop .nav-a:hover {
+        color: #ff9900;
+        text-decoration: underline;
+      }
+      #navbar #nav-search .nav-search-facade,
+      #navbar #nav-tools .nav-icon,
+      #navbar #nav-shop .nav-icon,
+      #navbar #nav-subnav .nav-hasArrow .nav-arrow {
+        display: none;
+      }
+      #navbar #nav-search .nav-search-submit,
+      #navbar #nav-search .nav-search-scope {
+        display: block;
+      }
+      #nav-search .nav-search-scope {
+        padding: 0 5px;
+      }
+      #navbar #nav-search .nav-search-dropdown {
+        position: relative;
+        top: 5px;
+        height: 23px;
+        font-size: 14px;
+        opacity: 1;
+        filter: alpha(opacity = 100);
+      }
+    --></style>
+ </noscript>
+<script type='text/javascript'>window.navmet.push({key:'PreNav',end:+new Date(),begin:window.navmet.tmp});</script>
+
+<a id='nav-top'></a>
+
+
+
+
+<a id="skiplink" tabindex="0" class="skip-link">Skip to main content</a>
+
+
+
+
+<script type='text/javascript'>window.navmet.main=+new Date();</script>
+
+<header class = "nav-opt-sprite nav-locale-ca nav-lang-en nav-ssl nav-unrec nav-flex">
+    
+  <div id='navbar' cel_widget_id='Navigation-desktop-navbar' data-template="layoutSwapToolBar"
+  role='navigation' class="nav-sprite-v1 celwidget nav-bluebeacon nav-a11y-t1 layout2 nav-packard-glow hamburger bold-focus-hover nav-flex">
+    
+    <div id='nav-belt'>
+      <div class='nav-left'>
+        <script type='text/javascript'>window.navmet.tmp=+new Date();</script>
+  <a href="/gp/site-directory?ref_=nav_em_js_disabled" id="nav-hamburger-menu" role="button" tabindex=0 aria-label="Open Menu" data-csa-c-type="widget" data-csa-c-slot-id="HamburgerMenuDesktop"
+  data-csa-c-interaction-events="click" >
+    <i class="hm-icon nav-sprite"></i>
+  </a>
+  
+<script type="text/javascript">
+  var hmenu = document.getElementById("nav-hamburger-menu");
+  hmenu.setAttribute("href", "javascript: void(0)");
+  window.navHamburgerMetricLogger = function() {
+    if (window.ue && window.ue.count) {
+      var metricName = "Nav:Hmenu:IconClickActionPending";
+      window.ue.count(metricName, (ue.count(metricName) || 0) + 1);
+    }
+    window.$Nav && $Nav.declare("navHMenuIconClicked",!0);
+    window.$Nav && $Nav.declare("navHMenuIconClickedNotReadyTimeStamp", Date.now());
+  };
+  hmenu.addEventListener("click", window.navHamburgerMetricLogger);
+  window.$Nav && $Nav.declare('hamburgerMenuIconAvailableOnLoad', false);
+  window.$Nav && $Nav.declare('hamburgerMenuWeblabTreatment', 'T1');
+</script>  
+<script type='text/javascript'>window.navmet.push({key:'HamburgerMenuIcon',end:+new Date(),begin:window.navmet.tmp});</script>
+        <script type='text/javascript'>window.navmet.tmp=+new Date();</script>
+  <div id="nav-logo" >
+    <a href="/ref=nav_logo" id="nav-logo-sprites" class="nav-logo-link nav-progressive-attribute" aria-label="Amazon.ca">
+      <span class="nav-sprite nav-logo-base"></span>
+      <span id="logo-ext" class="nav-sprite nav-logo-ext nav-progressive-content"></span>
+      <span class="nav-logo-locale">.ca</span>
+    </a>
+  </div>
+<script type='text/javascript'>window.navmet.push({key:'Logo',end:+new Date(),begin:window.navmet.tmp});</script>
+      </div>
+      
+          <div class='nav-fill'>
+            <script type='text/javascript'>window.navmet.tmp=+new Date();</script>
+<div id="nav-search">
+  <div id="nav-bar-left"></div>
+  <form
+    accept-charset="utf-8"
+    action="/s/ref=nb_sb_noss"
+    class="nav-searchbar"
+    method="GET"
+    name="site-search"
+    role="search"
+  >
+    <div class="nav-left">
+      <div id="nav-search-dropdown-card">
+        
+  <div class="nav-search-scope nav-sprite">
+    <div class="nav-search-facade" data-value="search-alias=aps">
+      <span class="nav-search-label">All</span>
+      <i class="nav-icon"></i>
+    </div>
+    <span id="searchDropdownDescription" style="display:none">Select the department you want to search in</span>
+    <select
+      aria-describedby="searchDropdownDescription"
+      class="nav-search-dropdown searchSelect"
+      data-nav-digest="x91FRHH5Ey0T3w80iSqEjQsbgCw="
+      data-nav-selected="0"
+      id="searchDropdownBox"
+      name="url"
+      style="display: block;"
+      tabindex="0"
+      title="Search in"
+    >
+        <option selected="selected" value="search-alias=aps">All Departments</option>
+        <option value="search-alias=alexa-skills">Alexa Skills</option>
+        <option value="search-alias=amazon-devices">Amazon Devices</option>
+        <option value="search-alias=warehouse-deals">Amazon Warehouse Deals</option>
+        <option value="search-alias=mobile-apps">Apps & Games</option>
+        <option value="search-alias=audible">Audible Audiobooks</option>
+        <option value="search-alias=automotive">Automotive</option>
+        <option value="search-alias=baby">Baby</option>
+        <option value="search-alias=beauty">Beauty</option>
+        <option value="search-alias=stripbooks">Books</option>
+        <option value="search-alias=apparel">Clothing & Accessories</option>
+        <option value="search-alias=electronics">Electronics</option>
+        <option value="search-alias=gift-cards">Gift Cards</option>
+        <option value="search-alias=grocery">Grocery</option>
+        <option value="search-alias=handmade">Handmade</option>
+        <option value="search-alias=hpc">Health & Personal Care</option>
+        <option value="search-alias=kitchen">Home & Kitchen</option>
+        <option value="search-alias=industrial">Industrial & Scientific</option>
+        <option value="search-alias=jewelry">Jewelry</option>
+        <option value="search-alias=digital-text">Kindle Store</option>
+        <option value="search-alias=luggage">Luggage & Bags</option>
+        <option value="search-alias=luxury-beauty">Luxury Beauty</option>
+        <option value="search-alias=dvd">Movies & TV</option>
+        <option value="search-alias=popular">Music</option>
+        <option value="search-alias=mi">Musical Instruments, Stage & Studio</option>
+        <option value="search-alias=office-products">Office Products</option>
+        <option value="search-alias=lawngarden">Patio, Lawn & Garden</option>
+        <option value="search-alias=pets">Pet Supplies</option>
+        <option value="search-alias=instant-video">Prime Video</option>
+        <option value="search-alias=shoes">Shoes & Handbags</option>
+        <option value="search-alias=smart-home">Smart Home</option>
+        <option value="search-alias=software">Software</option>
+        <option value="search-alias=sporting">Sports & Outdoors</option>
+        <option value="search-alias=tools">Tools & Home Improvement</option>
+        <option value="search-alias=toys">Toys & Games</option>
+        <option value="search-alias=videogames">Video Games</option>
+        <option value="search-alias=watches">Watches</option>
+    </select>
+  </div>
+
+      </div>
+    </div>
+    <div class="nav-fill">
+      <div class="nav-search-field ">
+        <input
+          type="text"
+          id="twotabsearchtextbox"
+          value=""
+          name="field-keywords"
+          autocomplete="off"
+          placeholder=""
+          class="nav-input"
+          dir="auto"
+          tabindex="0"
+          aria-label="Search"
+        >
+      </div>
+      <div id="nav-iss-attach"></div>
+    </div>
+    <div class="nav-right">
+      <div class="nav-search-submit nav-sprite">
+        <span id="nav-search-submit-text" class="nav-search-submit-text nav-sprite" aria-label="Go">
+          <input type="submit" class="nav-input" value="Go" tabindex="0">
+        </span>
+      </div>
+    </div>
+  </form>
+</div>
+<script type='text/javascript'>window.navmet.push({key:'Search',end:+new Date(),begin:window.navmet.tmp});</script>
+          </div>
+      
+      <div class='nav-right'>
+          <script type='text/javascript'>window.navmet.tmp=+new Date();</script>
+          <div id='nav-tools' class="layoutToolbarPadding">
+              
+              
+              
+              
+  <a href="/gp/customer-preferences/select-language/ref=topnav_lang?preferencesReturnUrl=%2F" id="icp-nav-flyout" class="nav-a nav-a-2 icp-link-style-2" aria-label="Choose a language for shopping.">
+    <span class="icp-nav-link-inner">
+      <span class="nav-line-1">
+      </span>
+      <span class="nav-line-2">
+        <span class="icp-nav-flag icp-nav-flag-ca"></span>
+        <span class="nav-icon nav-arrow"></span>
+      </span>
+    </span>
+  </a>
+
+              
+<a href="https://www.amazon.ca/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.ca%2Fgp%2Fitem-dispatch%2F%3Fie%3DUTF8%26canonicalAsin.0%3DB08K366221%26discoveredAsins.0%3DB077Y93YJT%26isAddon%3D1%26itemCount%3D1%26metric-asin.B077Y93YJT%3D1%26offeringID.1%3DdgOnYesqZtw9gqybBCcsvfRBubw3mnfi1%252FJkny%252FT%252B2LiUnB0hKRrKnkbSZPGmTof7Ba8%252BydTv1NgfYppkufhRsMeXB0ihmyRpcZlIi9KwX4%253D%26qid%3D%26registryID.1%3D%26registryItemID.1%3D%26signInToHUC%3D0%26sr%3D%26submit.addToCart.x%3D60%26submit.addToCart.y%3D8%26ref_%3Dnav_ya_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=caflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&" class="nav-a nav-a-2  " data-nav-ref="nav_ya_signin"  data-nav-role="signin" data-ux-jq-mouseenter="true" id="nav-link-accountList" tabindex="0">
+  <div class="nav-line-1-container"><span class="nav-line-1">Hello, Sign in</span></div>
+  <span class="nav-line-2 nav-long-width">Account & Lists<span class="nav-icon nav-arrow"></span>
+  </span>
+  <span class="nav-line-2 nav-short-width">
+    Account
+    <span class="nav-icon nav-arrow"></span>
+  </span>
+</a>
+
+              
+<a href="/gp/css/order-history?ref_=nav_orders_first" class="nav-a nav-a-2  " id="nav-orders" tabindex="0">
+  <span class="nav-line-1">Returns</span>
+  <span class="nav-line-2">& Orders</span>
+</a>
+
+              
+<a href="/prime?ref_=nav_prime_try_btn" class="nav-a nav-a-2  " data-nav-ref="nav_prime_try_btn"  data-ux-jq-mouseenter="true" id="nav-link-prime" tabindex="0">
+  <div class="nav-line-1-container"><span class="nav-line-1">Try</span></div>
+  <span class="nav-line-2 ">Prime<span class="nav-icon nav-arrow"></span>
+  </span>
+</a>
+
+              
+              
+  <a href="https://www.amazon.ca/gp/cart/view.html?ref_=nav_cart" aria-label=" items in cart" class="nav-a nav-a-2" id="nav-cart" tabindex="0">
+    <div id="nav-cart-count-container">
+      <span id="nav-cart-count" aria-hidden="true" class="nav-cart-count nav-cart-0"></span>
+      <span class="nav-cart-icon nav-sprite"></span>
+    </div>
+    <div id="nav-cart-text-container">
+      <span aria-hidden="true" class="nav-line-1">
+        
+      </span>
+      <span aria-hidden="true" class="nav-line-2">
+        Cart
+        <span class="nav-icon nav-arrow"></span>
+      </span>
+    </div>
+  </a>
+
+          </div>
+          <script type='text/javascript'>window.navmet.push({key:'Tools',end:+new Date(),begin:window.navmet.tmp});</script>
+
+      </div>
+      
+    </div>
+    <div id='nav-main' class='nav-sprite'>
+      
+      
+      
+      
+      
+      <div class='nav-left'>
+        
+<!-- NAVYAAN-GLOW-NAV -->
+<div id="nav-global-location-slot">
+    <span class="a-declarative" data-a-modal='{&quot;width&quot;:375, &quot;closeButton&quot;:&quot;false&quot;,&quot;popoverLabel&quot;:&quot;Choose your location&quot;, &quot;name&quot;:&quot;glow-modal&quot;, &quot;url&quot;:&quot;/gp/glow/get-address-selections.html?deviceType&#x3D;desktop&amp;pageType&#x3D;ShoppingCart&amp;storeContext&#x3D;NoStoreName&quot;, &quot;footer&quot;:null,&quot;header&quot;:&quot;Choose your location&quot;}' data-action="a-modal">
+        <a class="nav-a nav-a-2 a-popover-trigger a-declarative" tabindex="0">
+            <div class="nav-sprite" id="nav-packard-glow-loc-icon"></div>
+            <div id="glow-ingress-block">
+                <span class="nav-line-1" id="glow-ingress-line1">
+                   Hello
+                </span>
+                <span class="nav-line-2" id="glow-ingress-line2">
+                   Select your address
+                </span>
+            </div>
+        </a>
+        </span>
+        <input data-addnewaddress="add-new" id="unifiedLocation1ClickAddress" name="dropdown-selection" type="hidden" value="add-new" />
+        <input data-addnewaddress="add-new" id="ubbShipTo" name="dropdown-selection-ubb" type="hidden" value="add-new" />
+</div>
+
+
+        
+        
+        
+        
+      </div>
+      
+      <div class='nav-fill'>
+        
+        
+          
+ <div id="nav-shop">
+ </div>
+          <div id='nav-xshop-container' >
+            
+              
+            
+            <div id='nav-xshop'>
+              <script type='text/javascript'>window.navmet.tmp=+new Date();</script>
+<a href="/Best-Sellers-generic/zgbs/?ref_=nav_cs_bestsellers" class="nav-a  " tabindex="0" data-csa-c-type="link" data-csa-c-slot-id="nav_cs_0"data-csa-c-content-id="nav_cs_bestsellers">Best Sellers</a>
+
+<a href="/gcx/-/gfhz/?ref_=nav_cs_giftfinder" class="nav-a  " tabindex="0" data-csa-c-type="link" data-csa-c-slot-id="nav_cs_1"data-csa-c-content-id="nav_cs_giftfinder">Gift Ideas	</a>
+
+<a href="/gp/new-releases/?ref_=nav_cs_newreleases" class="nav-a  " tabindex="0" data-csa-c-type="link" data-csa-c-slot-id="nav_cs_2"data-csa-c-content-id="nav_cs_newreleases">New Releases</a>
+
+<a href="/gp/goldbox?ref_=nav_cs_gb" class="nav-a  " tabindex="0" data-csa-c-type="link" data-csa-c-slot-id="nav_cs_3"data-csa-c-content-id="nav_cs_gb">Deals Store</a>
+
+<a href="/Electronics-Accessories/b/?ie=UTF8&node=667823011&ref_=nav_cs_electronics" class="nav-a  " tabindex="0" data-csa-c-type="link" data-csa-c-slot-id="nav_cs_4"data-csa-c-content-id="nav_cs_electronics">Electronics</a>
+
+<a href="/gp/help/customer/display.html?ref_=nav_cs_help" class="nav-a  " tabindex="0" data-csa-c-type="link" data-csa-c-slot-id="nav_cs_5"data-csa-c-content-id="nav_cs_help">Customer Service</a>
+
+<a href="/gp/browse.html?node=2206275011&ref_=nav_cs_home" class="nav-a  " tabindex="0" data-csa-c-type="link" data-csa-c-slot-id="nav_cs_6"data-csa-c-content-id="nav_cs_home">Home</a>
+
+<a href="/books-used-books-textbooks/b/?ie=UTF8&node=916520&ref_=nav_cs_books" class="nav-a  " tabindex="0" data-csa-c-type="link" data-csa-c-slot-id="nav_cs_7"data-csa-c-content-id="nav_cs_books">Books</a>
+
+<a href="/b/?node=12218500011&ref_=nav_cs_coupons" class="nav-a  " tabindex="0" data-csa-c-type="link" data-csa-c-slot-id="nav_cs_8"data-csa-c-content-id="nav_cs_coupons">Coupons</a>
+
+<a href="/Computers-Accessories/b/?ie=UTF8&node=2404990011&ref_=nav_cs_pc" class="nav-a  " tabindex="0" data-csa-c-type="link" data-csa-c-slot-id="nav_cs_9"data-csa-c-content-id="nav_cs_pc">Computers</a>
+
+<a href="/gp/browse.html?node=9230166011&ref_=nav_cs_gc" class="nav-a  " tabindex="0" data-csa-c-type="link" data-csa-c-slot-id="nav_cs_10"data-csa-c-content-id="nav_cs_gc">Gift Cards</a>
+
+<a href="/b/?node=15664730011&ld=AZCASOA-sell&ref_=nav_cs_sell" class="nav-a  " tabindex="0" data-csa-c-type="link" data-csa-c-slot-id="nav_cs_11"data-csa-c-content-id="nav_cs_sell">Sell</a>
+
+<a href="/auto-deliveries/landing?ref_=nav_cs_sns" class="nav-a  " tabindex="0" data-csa-c-type="link" data-csa-c-slot-id="nav_cs_12"data-csa-c-content-id="nav_cs_sns">Subscribe & save</a>
+
+<a href="/gp/browse.html?node=19700946011&ref_=nav_cs_registry" class="nav-a  " tabindex="0" data-csa-c-type="link" data-csa-c-slot-id="nav_cs_13"data-csa-c-content-id="nav_cs_registry">Registry</a>
+<script type='text/javascript'>window.navmet.push({key:'CrossShop',end:+new Date(),begin:window.navmet.tmp});</script>
+            </div>
+            
+            
+            
+          </div>
+        
+      </div>
+      
+      <div class='nav-right'>
+          <script type='text/javascript'>window.navmet.tmp=+new Date();</script><!-- Navyaan SWM -->
+<div id="nav-swmslot">
+  <div id="navSwmHoliday" style="height: 39px; width: 400px; overflow: hidden; position: relative; ">
+    <a aria-label="Prime Video" href="/gp/redirect.html/?ie=UTF8&location=https%3A%2F%2Fwww.primevideo.com%2Fref&source=standards&token=6942A3BE332F639522C604291378FE69DB489AE7&ref_=nav_swm_dvm_crs_swm_ca_ra_swm1_panel_A&pf_rd_p=b9307361-2b02-46fd-89f9-2ab68776aaeb&pf_rd_s=nav-sitewide-msg&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=A2EUQ1WTGCTBG2&pf_rd_r=HBSDB4HEHZ4F472G2XQD" class="nav-imageHref" target="_blank">
+  <img alt="Prime Video" src="https://images-na.ssl-images-amazon.com/images/G/15/digital/video/merch/2018/Magellan/AVD10797_SWMRush/Amazon_GW_DesktopSWM_AVD10797_MagellanRush_400x39_EN_5._CB485944329_.jpg">
+</a>
+      </div>
+  
+</div><script type='text/javascript'>window.navmet.push({key:'SWM',end:+new Date(),begin:window.navmet.tmp});</script>
+      </div>
+      
+    </div>
+
+    <div id='nav-subnav-toaster'></div>
+
+    
+    <script type='text/javascript'>window.navmet.tmp=+new Date();</script>
+<div id='nav-subnav'  data-category="deals">
+  <a href="/gp/goldbox/?ie=UTF8&ref_=topnav_storetab_gb" class="nav-a nav-b" >
+    <span class="nav-a-content">
+      Today's Deals
+      
+    </span>
+  </a>
+  <a href="/gp/goldbox/watching/?ie=UTF8&ref_=sv_gb_1" class="nav-a" >
+    <span class="nav-a-content">
+      Watched Deals
+      
+    </span>
+  </a>
+  <a href="/b/?ie=UTF8&node=9833876011&ref_=sv_gb_2" class="nav-a" >
+    <span class="nav-a-content">
+      Outlet Deals
+      
+    </span>
+  </a>
+  <a href="/b/?ie=UTF8&node=8929975011&ref_=sv_gb_3" class="nav-a" >
+    <span class="nav-a-content">
+      Warehouse Deals
+      
+    </span>
+  </a>
+  <a href="/b/?ie=UTF8&node=12218500011&ref_=sv_gb_4" class="nav-a" >
+    <span class="nav-a-content">
+      Coupons
+      
+    </span>
+  </a>
+  <a href="/b/?ie=UTF8&node=10235505011&ref_=sv_gb_5" class="nav-a" >
+    <span class="nav-a-content">
+      eBook Deals
+      
+    </span>
+  </a>
+  <a href="/Subscribe/b/?ie=UTF8&node=6583741011&ref_=sv_gb_6" class="nav-a" >
+    <span class="nav-a-content">
+      Subscribe & Save
+      
+    </span>
+  </a>
+<!-- nav-linktree-subnav - 'deals' -->
+</div>
+
+<script type='text/javascript'>window.navmet.push({key:'Subnav',end:+new Date(),begin:window.navmet.tmp});</script>
+
+    
+    
+    
+  </div>
+
+  
+  
+
+</header>
+<script type='text/javascript'>window.navmet.push({key:'NavBar',end:+new Date(),begin:window.navmet.main});</script>
+
+<script type='text/javascript'>
+    <!--
+    window.$Nav && $Nav.declare('config.fixedBarBeacon',false);
+    window.$Nav && $Nav.when("data").run(function(data) { data({"freshTimeout":{"template":{"name":"flyoutError","data":{"error":{"title":"<style>#nav-flyout-fresh{width:269px;padding:0;}#nav-flyout-fresh .nav-flyout-content{padding:0;}</style><a href='/amazonfresh'><img src='https://images-na.ssl-images-amazon.com/images/G/01/omaha/images/yoda/flyout_72dpi._V270255989_.png' /></a>"}}}},"cartTimeout":{"template":{"name":"flyoutError","data":{"error":{"button":{"text":"Your Cart","url":"/gp/cart/view.html?ref_=nav_err_cart_timeout"},"title":"Oops!","paragraph":"There is a problem retrieving your cart right now"}}}},"primeTimeout":{"template":{"name":"flyoutError","data":{"error":{"title":"<a href='/gp/prime?ref_=nav_prime_btn_fb'><img src='https://images-na.ssl-images-amazon.com/images/G/15/prime/yourprime/yourprime-client-fallback._V316467452_.png' /></a>"}}}},"ewcTimeout":{"template":{"name":"flyoutError","data":{"error":{"button":{"text":"Your Cart","url":"/gp/cart/view.html?ref_=nav_err_ewc_timeout"},"title":"Oops!","paragraph":"There is a problem retrieving your cart right now"}}}},"errorWishlist":{"template":{"name":"flyoutError","data":{"error":{"button":{"text":"Your Wish List","url":"/gp/registry/wishlist/?ref_=nav_err_wishlist"},"title":"Oops!","paragraph":"There is a problem retrieving the list right now"}}}},"emptyWishlist":{"template":{"name":"flyoutError","data":{"error":{"button":{"text":"Your Wish List","url":"/gp/registry/wishlist/?ref_=nav_err_empty_wishlist"},"title":"Oops!","paragraph":"Your list is empty"}}}},"yourAccountContent":{"template":{"name":"flyoutError","data":{"error":{"button":{"text":"Your Account","url":"/gp/css/homepage.html?ref_=nav_err_youraccount"},"title":"Oops!","paragraph":"There is a problem retrieving the list right now"}}}},"shopAllTimeout":{"template":{"name":"flyoutError","data":{"error":{"paragraph":"There is a problem retrieving the list right now"}}}},"kindleTimeout":{"template":{"name":"flyoutError","data":{"error":{"paragraph":"There is a problem retrieving the list right now"}}}}}); });
+window.$Nav && $Nav.when("util.templates").run("FlyoutErrorTemplate", function(templates) {
+      templates.add("flyoutError", "<# if(error.title) { #><span class='nav-title'><#=error.title #></span><# } #><# if(error.paragraph) { #><p class='nav-paragraph'><#=error.paragraph #></p><# } #><# if(error.button) { #><a href='<#=error.button.url #>' class='nav-action-button' ><span class='nav-action-inner'><#=error.button.text #></span></a><# } #>");
+    });
+
+    if (typeof uet == 'function') {
+    uet('bb', 'iss-init-pc', {wb: 1});
+  }
+  if (!window.$SearchJS && window.$Nav) {
+    window.$SearchJS = $Nav.make('sx');
+  }
+
+  var opts = {
+    host: "completion.amazon.com/search/complete"
+  , marketId: "7"
+  , obfuscatedMarketId: "A2EUQ1WTGCTBG2"
+  , searchAliases: ["aps","amazon-devices","stripbooks","french-books","audible","dvd","popular","videogames","software","vhs","classical","electronics","kitchen","mobile-apps","watches","sporting","tools","baby","digital-text","financial","beauty","hpc","pets","lawngarden","luggage","toys","office-products","automotive","grocery","mi","jewelry","gift-cards","apparel","shoes","smart-home","black-friday","cyber-monday","warehouse-deals","handmade","handmade-jewelry","handmade-home-and-kitchen","industrial","instant-video","alexa-skills","todays-deals","specialty-aps-sns"]
+  , filterAliases: []
+  , pageType: "ShoppingCart"
+  , requestId: "HBSDB4HEHZ4F472G2XQD"
+  , sessionId: "000-0000000-0000000"
+  , language: "en_CA"
+  , customerId: ""
+  , b2b: 0
+  , fresh: 0
+  , isJpOrCn: 0
+  , isUseAuiIss: 1
+};
+
+var issOpts = {
+    fallbackFlag: 1
+  , isDigitalFeaturesEnabled: 0
+  , isWayfindingEnabled: 0
+  , dropdown: "select.searchSelect"
+  , departmentText: "in {department}"
+  , suggestionText: "Search suggestions"
+  , recentSearchesTreatment: "C"
+  , authorSuggestionText: ": all books"
+  , translatedStringsMap: {"sx-recent-searches":"","sx-your-recent-search":"Inspired by your recent search"}
+  , biaTitleText: ""
+  , biaPurchasedText: ""
+  , biaViewAllText: ""
+  , biaViewAllManageText: ""
+  , biaAndText: ""
+  , biaManageText: ""
+  , biaWeblabTreatment: ""
+  , issNavConfig: {}
+  , np: 0
+  , issCorpus: []
+  , cf: 1
+  , removeDeepNodeISS: ""
+  , trendingTreatment: "C"
+  , useAPIV2: ""
+  , opfSwitch: ""
+  , isISSDesktopRefactorEnabled: "1"
+  , useServiceHighlighting: "true"
+  , isInternal: 0
+  , isAPICachingDisabled: true
+  , isBrowseNodeScopingEnabled: false
+  , isStorefrontTemplateEnabled: false
+  , disableAutocompleteOnFocus: ""
+};
+
+  if (opts.isUseAuiIss === 1 && window.$Nav) {
+  window.$Nav.when('sx.iss').run('iss-mason-init', function(iss){
+    var issInitObj = buildIssInitObject(opts, issOpts, true);
+
+    new iss.IssParentCoordinator(issInitObj);
+
+    $SearchJS.declare('canCreateAutocomplete', issInitObj);
+  });
+} else if (window.$SearchJS) {
+  var iss;
+
+  // BEGIN Deprecated globals
+  var issHost = opts.host
+    , issMktid = opts.marketId
+    , issSearchAliases = opts.searchAliases
+    , updateISSCompletion = function() { iss.updateAutoCompletion(); };
+  // END deprecated globals
+
+
+  $SearchJS.when('jQuery', 'search-js-autocomplete-lib').run('autocomplete-init', initializeAutocomplete);
+  $SearchJS.when('canCreateAutocomplete').run('createAutocomplete', createAutocomplete);
+
+} // END conditional for window.$SearchJS
+  function initializeAutocomplete(jQuery) {
+  var issInitObj = buildIssInitObject(opts, issOpts);
+  $SearchJS.declare("canCreateAutocomplete", issInitObj);
+} // END initializeAutocomplete
+  function initSearchCsl(searchCSL, issInitObject) {
+  searchCSL.init(
+    opts.pageType,
+    (window.ue && window.ue.rid) || opts.requestId
+  );
+  $SearchJS.declare("canCreateAutocomplete", issInitObject);
+} // END initSearchCsl
+  function createAutocomplete(issObject) {
+  iss = new AutoComplete(issObject);
+
+  $SearchJS.publish("search-js-autocomplete", iss);
+
+  logMetrics();
+} // END createAutocomplete
+  function buildIssInitObject(opts, issOpts, isNewIss) {
+    var issInitObj = {
+        src: opts.host
+      , sessionId: opts.sessionId
+      , requestId: opts.requestId
+      , mkt: opts.marketId
+      , obfMkt: opts.obfuscatedMarketId
+      , pageType: opts.pageType
+      , language: opts.language
+      , customerId: opts.customerId
+      , fresh: opts.fresh
+      , b2b: opts.b2b
+      , aliases: opts.searchAliases
+      , fb: issOpts.fallbackFlag
+      , isDigitalFeaturesEnabled: issOpts.isDigitalFeaturesEnabled
+      , isWayfindingEnabled: issOpts.isWayfindingEnabled
+      , issPrimeEligible: issOpts.issPrimeEligible
+      , deptText: issOpts.departmentText
+      , sugText: issOpts.suggestionText
+      , filterAliases: opts.filterAliases
+      , biaWidgetUrl: opts.biaWidgetUrl
+      , recentSearchesTreatment: issOpts.recentSearchesTreatment
+      , authorSuggestionText: issOpts.authorSuggestionText
+      , translatedStringsMap: issOpts.translatedStringsMap
+      , biaTitleText: ""
+      , biaPurchasedText: ""
+      , biaViewAllText: ""
+      , biaViewAllManageText: ""
+      , biaAndText: ""
+      , biaManageText: ""
+      , biaWeblabTreatment: ""
+      , issNavConfig: issOpts.issNavConfig
+      , cf: issOpts.cf
+      , ime: opts.isJpOrCn
+      , mktid: opts.marketId
+      , qs: opts.isJpOrCn
+      , issCorpus: issOpts.issCorpus
+      , deepNodeISS: {
+          searchAliasAccessor: function($) {
+            return (window.SearchPageAccess && window.SearchPageAccess.searchAlias()) ||
+                   $('select.searchSelect').children().attr('data-root-alias');
+          },
+          searchAliasDisplayNameAccessor: function() {
+            return (window.SearchPageAccess && window.SearchPageAccess.searchAliasDisplayName());
+          }
+        }
+      , removeDeepNodeISS: issOpts.removeDeepNodeISS
+      , trendingTreatment: issOpts.trendingTreatment
+      , useAPIV2: issOpts.useAPIV2
+      , opfSwitch: issOpts.opfSwitch
+      , isISSDesktopRefactorEnabled: issOpts.isISSDesktopRefactorEnabled
+      , useServiceHighlighting: issOpts.useServiceHighlighting
+      , isInternal: issOpts.isInternal
+      , isAPICachingDisabled: issOpts.isAPICachingDisabled
+      , isBrowseNodeScopingEnabled: issOpts.isBrowseNodeScopingEnabled
+      , isStorefrontTemplateEnabled: issOpts.isStorefrontTemplateEnabled
+      , disableAutocompleteOnFocus: issOpts.disableAutocompleteOnFocus
+    };
+  
+    // If we aren't using the new ISS then we need to add these properties
+    
+    if (!isNewIss) {
+      issInitObj.dd = issOpts.dropdown; // The element with id searchDropdownBox doesn't exist in C.
+      issInitObj.imeSpacing = issOpts.imeSpacing;
+      issInitObj.isNavInline = 1;
+      issInitObj.triggerISSOnClick = 0;
+      issInitObj.sc = 1;
+      issInitObj.np = issOpts.np;
+    }
+  
+    return issInitObj;
+  } // END buildIssInitObject
+  function logMetrics() {
+  if (typeof uet == 'function' && typeof uex == 'function') {
+      uet('be', 'iss-init-pc',
+          {
+              wb: 1
+          });
+      uex('ld', 'iss-init-pc',
+          {
+              wb: 1
+          });
+  }
+} // END logMetrics
+  
+    
+window.$Nav && $Nav.declare('config.navDeviceType','desktop');
+
+window.$Nav && $Nav.declare('config.navDebugHighres',false);
+
+window.$Nav && $Nav.declare('config.pageType','ShoppingCart');
+window.$Nav && $Nav.declare('config.subPageType','Cart');
+
+window.$Nav && $Nav.declare('config.dynamicMenuUrl','\x2Fgp\x2Fnavigation\x2Fajax\x2Fdynamic\x2Dmenu.html');
+
+window.$Nav && $Nav.declare('config.dismissNotificationUrl','\x2Fgp\x2Fnavigation\x2Fajax\x2Fdismissnotification.html');
+
+window.$Nav && $Nav.declare('config.enableDynamicMenus',true);
+
+window.$Nav && $Nav.declare('config.isInternal',false);
+
+window.$Nav && $Nav.declare('config.isBackup',false);
+
+window.$Nav && $Nav.declare('config.isRecognized',false);
+
+window.$Nav && $Nav.declare('config.transientFlyoutTrigger','\x23nav\x2Dtransient\x2Dflyout\x2Dtrigger');
+
+window.$Nav && $Nav.declare('config.subnavFlyoutUrl','\x2Fgp\x2Fnavigation\x2Fajax\x2Fsubnav\x2Dflyout');
+
+
+window.$Nav && $Nav.declare('config.alexaListEnabled',false);
+
+window.$Nav && $Nav.declare('config.readyOnATF',false);
+
+window.$Nav && $Nav.declare('config.dynamicMenuArgs',{"rid":"HBSDB4HEHZ4F472G2XQD","isFullWidthPrime":0,"isPrime":0,"dynamicRequest":1,"weblabs":"","isFreshRegionAndCustomer":"","primeMenuWidth":310});
+
+window.$Nav && $Nav.declare('config.customerName',false);
+
+window.$Nav && $Nav.declare('config.yourAccountPrimeURL',null);
+
+window.$Nav && $Nav.declare('config.yourAccountPrimeHover',true);
+
+window.$Nav && $Nav.declare('config.searchBackState',{});
+
+window.$Nav && $Nav.declare('nav.inline');
+
+(function (i) {
+i.onload = function() {window.uet && uet('ne')};
+i.src = window._navbarSpriteUrl;
+}(new Image()));
+
+window.$Nav && $Nav.declare('config.autoFocus',false);
+
+window.$Nav && $Nav.declare('config.responsiveTouchAgents',["ieTouch"]);
+
+window.$Nav && $Nav.declare('config.responsiveGW',false);
+
+window.$Nav && $Nav.declare('config.pageHideEnabled',false);
+
+window.$Nav && $Nav.declare('config.sslTriggerType','null');
+window.$Nav && $Nav.declare('config.sslTriggerRetry',0);
+
+window.$Nav && $Nav.declare('config.doubleCart',false);
+
+window.$Nav && $Nav.declare('config.signInOverride',false);
+
+window.$Nav && $Nav.declare('config.signInTooltip',true);
+
+window.$Nav && $Nav.declare('config.isPrimeMember',false);
+
+window.$Nav && $Nav.declare('config.packardGlowTooltip',false);
+
+window.$Nav && $Nav.declare('config.packardGlowFlyout',false);
+
+window.$Nav && $Nav.declare('config.rightMarginAlignEnabled',true);
+
+window.$Nav && $Nav.declare('config.flyoutAnimation',false);
+
+window.$Nav && $Nav.declare('config.campusActivation','null');
+
+window.$Nav && $Nav.declare('config.primeTooltip',false);
+
+window.$Nav && $Nav.declare('config.primeDay',false);
+
+window.$Nav && $Nav.declare('config.disableBuyItAgain',false);
+
+window.$Nav && $Nav.declare('config.enableCrossShopBiaFlyout',false);
+
+window.$Nav && $Nav.declare('config.pseudoPrimeFirstBrowse',null);
+
+window.$Nav && $Nav.declare('config.sdaYourAccount',false);
+
+window.$Nav && $Nav.declare('config.csYourAccount',false);
+
+window.$Nav && $Nav.declare('config.cartFlyoutDisabled',true);
+
+window.$Nav && $Nav.declare('config.isTabletBrowser',false);
+
+window.$Nav && $Nav.declare('config.HmenuProximityArea',[200,200,200,200]);
+
+window.$Nav && $Nav.declare('config.HMenuIsProximity',true);
+
+window.$Nav && $Nav.declare('config.desktopHMenuRefactor',true);
+
+window.$Nav && $Nav.declare('config.isPureAjaxALF',false);
+
+window.$Nav && $Nav.declare('config.accountListFlyoutRedesign',false);
+
+window.$Nav && $Nav.declare('config.navfresh',false);
+
+window.$Nav && $Nav.declare('config.isFreshRegion',false);
+
+if (window.ue && ue.tag) { ue.tag('navbar'); };
+
+window.$Nav && $Nav.declare('config.blackbelt',true);
+
+window.$Nav && $Nav.declare('config.beaconbelt',true);
+
+window.$Nav && $Nav.declare('config.beaconbeltCover',false);
+
+window.$Nav && $Nav.declare('config.accountList',true);
+
+window.$Nav && $Nav.declare('config.iPadTablet',false);
+
+window.$Nav && $Nav.declare('config.searchapiEndpoint',false);
+
+window.$Nav && $Nav.declare('config.timeline',false);
+
+window.$Nav && $Nav.declare('config.timelineAsinPriceEnabled',false);
+
+window.$Nav && $Nav.declare('config.timelineDeleteEnabled',false);
+
+
+
+window.$Nav && $Nav.declare('config.extendedFlyout',false);
+
+window.$Nav && $Nav.declare('config.flyoutCloseDelay',600);
+
+window.$Nav && $Nav.declare('config.flyoutClickState','C');
+
+window.$Nav && $Nav.declare('config.pssFlag',0);
+
+window.$Nav && $Nav.declare('config.isShortAccountList',false);
+
+window.$Nav && $Nav.declare('config.isPrimeTooltipMigrated',false);
+
+window.$Nav && $Nav.declare('config.isDesktopHeaderFlex',true);
+
+window.$Nav && $Nav.declare('config.flyoutArrowStyle','nav\x2Dcaret');
+
+window.$Nav && $Nav.declare('config.hashCustomerAndSessionId','b54479e8d6371bba2a650babfc38415c298cb83b');
+
+window.$Nav && $Nav.declare('config.isExportMode',false);
+
+window.$Nav && $Nav.declare('config.languageCode','en_CA');
+
+window.$Nav && $Nav.declare('config.environmentVFI','AmazonNavigationCards\x2Fdevelopment\x40B6031193361\x2DAL2_x86_64');
+
+
+
+window.$Nav && $Nav.declare('config.isHMenuBrowserCacheDisable',false);
+
+window.$Nav && $Nav.declare('config.signInUrlWithRefTag','https\x3A\x2F\x2Fwww.amazon.ca\x2Fap\x2Fsignin\x3Fopenid.pape.max_auth_age\x3D0\x26openid.return_to\x3Dhttps\x253A\x252F\x252Fwww.amazon.ca\x252Fgp\x252Fitem\x2Ddispatch\x252F\x253Fie\x253DUTF8\x2526canonicalAsin.0\x253DB08K366221\x2526discoveredAsins.0\x253DB077Y93YJT\x2526isAddon\x253D1\x2526itemCount\x253D1\x2526metric\x2Dasin.B077Y93YJT\x253D1\x2526offeringID.1\x253DdgOnYesqZtw9gqybBCcsvfRBubw3mnfi1\x25252FJkny\x25252FT\x25252B2LiUnB0hKRrKnkbSZPGmTof7Ba8\x25252BydTv1NgfYppkufhRsMeXB0ihmyRpcZlIi9KwX4\x25253D\x2526qid\x253D\x2526registryID.1\x253D\x2526registryItemID.1\x253D\x2526signInToHUC\x253D0\x2526sr\x253D\x2526submit.addToCart.x\x253D60\x2526submit.addToCart.y\x253D8\x2526ref_\x253DnavSignInUrlRefTagPlaceHolder\x26openid.identity\x3Dhttp\x253A\x252F\x252Fspecs.openid.net\x252Fauth\x252F2.0\x252Fidentifier_select\x26openid.assoc_handle\x3Dcaflex\x26openid.mode\x3Dcheckid_setup\x26openid.claimed_id\x3Dhttp\x253A\x252F\x252Fspecs.openid.net\x252Fauth\x252F2.0\x252Fidentifier_select\x26openid.ns\x3Dhttp\x253A\x252F\x252Fspecs.openid.net\x252Fauth\x252F2.0\x26');
+
+window.$Nav && $Nav.declare('config.isSignInOverride',true);
+
+window.$Nav && $Nav.declare('config.isHMenuAdditionalParametersRemoved',true);
+
+window.$Nav && $Nav.declare('config.isSmile',false);
+
+window.$Nav && $Nav.declare('config.regionalStores',[]);
+
+window.$Nav && $Nav.declare('config.isFlyoutBuffer',true);
+
+window.$Nav && $Nav.declare('config.isALFRedesignPT2',false);
+
+if (window.P && typeof window.P.declare === "function" && typeof window.P.now === "function") {
+  window.P.now('packardGlowIngressJsEnabled').execute(function(glowEnabled) {
+    if (!glowEnabled) {
+      window.P.declare('packardGlowIngressJsEnabled', true);
+    }
+  });
+  window.P.now('packardGlowStoreName').execute(function(storeName) {
+    if (!storeName) {
+      window.P.declare('packardGlowStoreName','generic');
+    }
+  });
+}
+
+window.$Nav && $Nav.declare('configComplete');
+
+    -->
+</script>
+
+
+<a id="skippedLink" tabindex="-1"></a>
+
+<script type='text/javascript'>window.navmet.MainEnd = new Date();</script>
+<!-- EndNav -->
+  </div><!-- for #top -->
+  <div class="sc-cart-spinner" style="display:none;">
+    <img src="https://images-na.ssl-images-amazon.com/images/G/15/ui/loadIndicators/loading-large._CB485945341_.gif" alt="Loading...
+
+
+
+
+
+
+" />
+  </div>
+  <div class="sc-cart-overwrap" style="display:none;"></div>
+
+
+
+  <div class="a-container sc-background-dark">
+    <div id="content" class="a-section a-spacing-none" role="main">
+      <div class="a-row">   
+        
+    
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+        
+        
+
+    
+
+
+
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+        
+    
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+        
+        
+
+        
+        
+
+        
+        
+
+        
+        
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="cart-important-message-box">
+  <div class="sc-imb-spinner" style="display:none;">
+    <img src="https://images-na.ssl-images-amazon.com/images/G/15/ui/loadIndicators/loading-large._CB485945341_.gif" width="52" height="52" border="0" />
+  </div>
+  <div class="sc-imb-overwrap" style="display:none;"></div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div id="sc-important-message-alert" class="a-box a-alert a-alert-warning celwidget a-spacing-medium-plus"><div class="a-box-inner a-alert-container"><h4 class="a-alert-heading">Important messages for items in your Cart:</h4><i class="a-icon a-icon-alert"></i><div class="a-alert-content">
+      
+<p class="a-spacing-none a-spacing-top-mini"><p>Please Enable Cookies in your Web Browser to Continue.<p><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=200157010&amp;pop-up=1" target="AmazonHelp" onclick="return amz_js_PopWin(this.href,'AmazonHelp','width=700,height=800,resizable=1,scrollbars=1,toolbar=1,status=1');">Learn more</a> about cookies and how to enable them.<p>Once you have enabled cookies, please click <a href="">here to continue shopping</a>.</p>
+
+      <div id="sc-see-more-updates-expander" aria-live="polite" class="a-row a-expander-container a-expander-extend-container aok-hidden">
+        <div id="sc-see-more-updates-content" aria-expanded="false" class="a-expander-content a-expander-extend-content" style="display:none">
+        </div> <!-- for expander_content -->
+        <a href="javascript:void(0)" data-action="a-expander-toggle" class="a-expander-header a-declarative a-expander-extend-header" data-a-expander-toggle="{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Show new updates&quot;, &quot;collapse_prompt&quot;:&quot;Hide new updates&quot;}"><i class="a-icon a-icon-extender-expand"></i><span class="a-expander-prompt">Show new updates
+        </span></a> <!-- for expander_heading -->
+      </div> <!-- for expander -->
+  </div></div></div>
+</div>
+
+
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+    <div id="sc-new-upsell" class="a-row a-spacing-medium sc-hidden">
+    </div>
+   
+      </div>
+      <div class="a-row">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="pmf-asset-trigger" data-pmf-asset-trigger="EbooksCartAsset"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+    <!-- Active Fresh cart section start -->
+    <div class="a-row">
+      
+    </div>
+    <!-- Active Fresh cart section end -->
+    
+    <div class="a-row">
+      
+    </div>
+    <div class="a-row">
+    
+    </div>
+
+    <div id="sc-retail-cart-container" class="a-fixed-right-flipped-grid"><div class="a-fixed-right-grid-inner">
+      <div id="proceed-to-checkout-desktop-container" class="a-fixed-right-grid-col a-col-right" style="width:300px;float:right;">
+        
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+if (CartPerf) {
+  CartPerf.x2Loaded();
+}
+P.register('x2', function() {});
+</script>
+
+
+<div id="sc-rec-right" class="a-section a-spacing-large">
+    <div id="cart-item-recs" class="a-section"></div>
+</div>
+
+      </div>
+      <div class="a-fixed-right-grid-col sc-retail-cart-column-spacing a-col-left" style="padding-right:0%;float:none;">
+
+        
+
+
+  
+  <div id="cart-switch-language">
+  
+  Vous voulez voir cette page en français&#160;? <a href="/gp/switch-language/cart/view.html?ie=UTF8&language=fr_CA&store=generic&viewID=standard"> Cliquez ici</a>.
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="sc-active-cart" data-name="Active Cart" class="a-cardui sc-card-style sc-list sc-java-remote-feature celwidget sc-card-spacing-top-none" data-a-card-type="basic">
+            <div class="a-cardui-body">
+                
+    <a name="sc-anchor-active-cart" aria-hidden="true" ></a>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="a-row a-spacing-top-extra-large">
+    <div class="a-column a-span4">
+        
+            
+            
+            
+            
+                <img src="https://m.media-amazon.com/images/G/15/cart/empty/kettle-desaturated._CB424694027_.svg"/>
+            
+        
+    </div>
+    <div class="a-column a-span8 a-span-last">
+        <div class="a-row sc-your-amazon-cart-is-empty">
+            <h2>
+                Your Amazon Cart is empty
+            </h2>
+        </div>
+        
+            
+            
+                
+                <div class="a-row sc-shop-todays-deals-link">
+                    <a class="a-link-normal" href="/gp/goldbox/ref=cart_empty_deals">
+                        Shop today&apos;s deals
+                    </a>
+                </div>
+            
+        
+
+        
+            
+            
+                <div class="a-row a-spacing-medium a-spacing-top-medium sc-sign-in">
+                    
+                    
+                    <span class="a-button a-button-primary"><span class="a-button-inner"><a href="https://www.amazon.ca/gp/sign-in.html/ref=cart_empty_sign_in?path=%2Fgp%2Fcart%2Fview.html%3Fapp-nav-type%3Dnone%26dc%3Ddf&amp;useRedirectOnSuccess=1" class="a-button-text" role="button">
+                        <span class="a-size-base-plus">
+                            Sign in to your account
+                        </span>
+                    </a></span></span>
+
+                    
+                    <span class="a-button a-button-base"><span class="a-button-inner"><a href="https://www.amazon.ca/ap/register?openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=caflex&amp;openid.mode=checkid_setup&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0" class="a-button-text" role="button">
+                        <span class="a-size-base-plus">
+                            Sign up now
+                        </span>
+                    </a></span></span>
+                </div>
+            
+        
+    </div>
+</div>
+
+    
+
+            </div>
+        </div>
+    
+    
+
+
+
+
+
+
+
+
+
+
+<div id="sc-aui-elements" class="sc-hidden">
+    
+
+<i class="a-icon a-icon-text-separator sc-action-separator" role="img" aria-label="|"></i>
+
+</div>
+
+<script type="text/javascript">
+if (CartPerf) {
+  CartPerf.x1Loaded();
+}
+P.register('x1', function() {});
+</script>
+
+
+
+<script type="text/javascript">
+if (CartPerf) {
+  CartPerf.x3Loaded();
+}
+P.register('x3', function() {});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+        <div id="sc-saved-cart" data-has-more-items="0" data-listfeature="desktop/saved-cart" data-listid="saved-for-later" data-listtype="saved-for-later" data-page="1" class="a-cardui sc-card-style sc-list sc-java-remote-feature celwidget sc-card-spacing-top-none" data-a-card-type="basic">
+            <div class="a-cardui-body">
+                
+    <a name="sc-anchor-saved-cart" aria-hidden="true"></a>
+    
+    <form id="savedCartViewForm" method="post" action="/gp/cart/view.html/ref=ord_cart_shr?app-nav-type=none&amp;dc=df">
+        
+        <input type="hidden" name="fromAUI" value="1"/>
+        <input type='hidden' name='requestID' value='3FFX9B8792R4AXNRZWAA' />
+<input type='hidden' name='timeStamp' value='1605568887' />
+<input type='hidden' name='token' value='gJrDQapp0gfLU0iBjoALMQEmwG9YDWJy/gJP/JYAAAAMAAAAAF+zCXdyYXcAAAAA' />
+<input type='hidden' name='anti-csrftoken-a2z' value='g3OYZ6P3eTg2SSbjEt8gBLnvp+REGeMOwM0mWOCvfVElAAAAAQAAAABfswl3cmF3AAAAAHIvVkCfa6o/sB8T3F+olA==' />
+
+        
+    </form>
+    
+
+            </div>
+        </div>
+    
+    
+
+
+
+
+
+
+
+<!-- cf-trigger called -->
+
+<!-- MarkCF -->
+<script type="text/javascript">
+if (CartPerf) {
+  CartPerf.criticalFeatureLoaded();
+}
+P.register('cf', function() {});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+<script>
+P.register('CartServerSetting', function() {
+  return {"subtotalRawStrings":{"plural":"Subtotal (${hash-get quantity} items):","singular":"Subtotal (${hash-get quantity} item):"},"requestId":"3FFX9B8792R4AXNRZWAA","features":{"enableRelatedItemsDeleteConfirmation":"","enabledVPCValidityMessage":0,"enableSecondaryList":"1","isMapleUpsellComponentEnabled":"1","enableCartInstallments":1,"enableBulkActionsDesktop":"","enableSecondaryListHeaderTab":"1","enabledPseudoPrime":0,"enableFreshCart":null,"enableBuyNow":"","enableQuickReorder":"","enableA11yLinks":"","FLC":{"zipcodeSupported":""},"enableDefaultBuyItAgainTab":"1","enableOptimisticSaveForLater":"","enablePrimePantry":0,"enableOptimisticUpdates":"1","isLargeCartExperienceEnabled":"","enableWishListIntegration":"","enablePartialCheckout":0,"enableKataClientSideRendering":"","disableUpdateUserQuantityToMOQ":"","removeFadeInAndOut":"","enableWishListRedesign":0,"enableBuyItAgain":"1","enableCollapsedSFL":null,"enableAddOnReminder":"","showLargeCartExperience":0},"cartSizeLimit":0,"locale":{"languageCode":"en-CA"},"isInternal":0,"currency":0,"domain":"prod","benefitPriceModalSignupScript":null,"view":"Desktop","cartQuantityLimit":0,"csrf":{"timeStamp":"1605568887","token":"gJrDQapp0gfLU0iBjoALMQEmwG9YDWJy/gJP/JYAAAAMAAAAAF+zCXdyYXcAAAAA","requestID":"3FFX9B8792R4AXNRZWAA"}};
+});
+</script>
+
+
+<script>
+P.register('FLCStatusManager.defaultStatus', function() {
+  return { value : false };
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+<!--This method defines a variable that is used to reload cart page on back button press. Refer to TT-https://tt.amazon.com/0023984373 -->
+<input type="hidden" name="" value="false" id="pageDirty">
+
+
+
+
+<div id="sc-about" class="a-row a-size-small">
+  <div id="cart-about-cart-warning" class="a-row">
+    <p>
+      The price and availability of items at Amazon.ca are subject to change. The shopping cart is a temporary place to store a list of your items and reflects each item's most recent price.
+    </p>
+  </div>
+  <p>Do you have a gift card or promotional code? We'll ask you to enter your claim code when it's time to pay.</p>
+</div>
+
+
+
+
+
+      </div><!-- for right -->
+    </div></div><!-- for cart-left -->
+
+    <div>
+      
+
+
+
+
+
+
+<div id="sc-authportal-migration" class="a-row a-hidden"></div>
+
+    </div>
+    </div><!-- for section -->
+  </div><!-- for container -->
+  <div id="bottom" class="a-section a-spacing-none">
+    
+
+
+
+
+
+
+
+  <div id="addon-popover-place-holder">
+  <div class="a-popover-preload" id="a-popover-addon-modal">
+    <div id="addon-popover-wrapper">
+    </div>
+  </div>
+</div>
+
+
+
+
+<script type="text/javascript">
+try {
+P.when('A').execute(function(A){
+  A.preload(["https://images-na.ssl-images-amazon.com/images/G/15/x-locale/common/buttons/sign-in-secure._CB485941596_.gif","https://images-na.ssl-images-amazon.com/images/G/01/authportal/common/images/amznbtn-sprite03._CB485966112_.png","https://images-na.ssl-images-amazon.com/images/G/15/authportal/common/css/ap-checkout-frn._CB485965963_.css","https://images-na.ssl-images-amazon.com/images/G/15/authportal/common/js/ap_global-1.1._CB485931394_.js","https://images-na.ssl-images-amazon.com/images/G/15/authportal/common/js/ap-checkout-frn._CB485979579_.js","https://images-na.ssl-images-amazon.com/images/G/15/javascripts/lib/jquery/jquery-1.2.6.min._CB485967157_.js","https://images-na.ssl-images-amazon.com/images/G/15/x-locale/common/login/fwcim._CB481732238_.js","https://images-na.ssl-images-amazon.com/images/G/15/orderApplication/css/authPortal/sign-in._CB485946445_.css","https://images-na.ssl-images-amazon.com/images/G/15/x-locale/common/errors-alerts/error-styles-ssl._CB485937077_.css","https://images-na.ssl-images-amazon.com/images/G/15/authportal/common/css/ap_global._CB485970380_.css","https://images-na.ssl-images-amazon.com/images/G/15/x-locale/checkout/signin-banner._CB485922847_.gif","https://images-na.ssl-images-amazon.com/images/G/15/orderApplication/js/authPortal/sign-in._CB485944673_.js"]);
+});
+}
+catch (e) {}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+  #nav-prime-tooltip{
+    padding: 0 20px 2px 20px;
+    background-color: white;
+    font-family: arial,sans-serif;
+  }
+  .nav-npt-text-title{
+    font-family: arial,sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 21px;
+    color: #E47923;
+  }
+  .nav-npt-text-detail, a.nav-npt-a{
+    font-family: arial,sans-serif;
+    font-size: 12px;
+    line-height: 14px;
+    color: #333333;
+    margin: 2px 0px;
+  }
+  a.nav-npt-a {
+    text-decoration: underline;
+  }
+</style>
+
+
+<div  style="display: none">
+  <div id="nav-prime-tooltip">
+    <div class="nav-npt-text-title"> Fast, FREE delivery, video streaming, music, and much more </div>
+    <div class="nav-npt-text-detail"> Prime members enjoy Free Two-Day Shipping, Free Same-Day or One-Day Delivery to select areas, Prime Video, Prime Music, Prime Reading, and more. </div>
+    <div class="nav-npt-text-detail">
+      &gt;
+      <a class="nav-npt-a" href="/gp/prime">Get started</a>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+
+
+
+#csr-hcb-wrapper {
+  display: none;
+}
+
+.bia-item .bia-action-button {
+  display: inline-block;
+  height: 22px;
+  margin-top: 3px;
+  padding: 0px;
+  overflow: hidden;
+  text-align: center;
+  vertical-align: middle;
+  text-decoration: none;
+  color: #111;
+  font-family: Arial,sans-serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 19px;
+  cursor: pointer;
+  outline: 0;
+  border: 1px solid;
+  -webkit-border-radius: 3px 3px 3px 3px;
+  -moz-border-radius: 3px 3px 3px 3px;
+  border-radius: 3px 3px 3px 3px;
+  border-radius: 0\9;
+  border-color: #bcc1c8 #bababa #adb2bb;
+  background: #eff0f3;
+  background: -moz-linear-gradient(top, #f7f8fa, #e7e9ec);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f7f8fa), color-stop(100%, #e7e9ec));
+  background: -webkit-linear-gradient(top, #f7f8fa, #e7e9ec);
+  background: -o-linear-gradient(top, #f7f8fa, #e7e9ec);
+  background: -ms-linear-gradient(top, #f7f8fa, #e7e9ec);
+  background: linear-gradient(top, #f7f8fa, #e7e9ec);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f7f8fa', endColorstr='#e7e9ec',GradientType=0);
+  *zoom: 1;
+  -webkit-box-shadow: inset 0 1px 0 0 #fff;
+  -moz-box-shadow: inset 0 1px 0 0 #fff;
+  box-shadow: inset 0 1px 0 0 #fff;
+  box-sizing: border-box;
+}
+
+#bia-hcb-widget .a-button-text {
+    font-family: Arial,sans-serif !important;
+}
+
+#bia_content .a-icon-row {
+    display: none;
+}
+
+#bia-hcb-widget .a-icon-row {
+      display: none;
+}
+
+#bia_content {
+    width: 266px;
+}
+
+.nav-flyout-sidePanel {
+    width: 266px !important;
+}
+.aui-atc-button {
+    margin-top: 3px;
+    overflow: hidden;
+    color: #111;
+    font-family: Arial,sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: normal;
+}
+.bia-item .bia-action-button:hover {
+  border-color: #aeb4bd #adadad #9fa5af;
+  background: #e0e3e8;
+  background: -moz-linear-gradient(top, #e7eaf0, #d9dce1);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #e7eaf0), color-stop(100%, #d9dce1));
+  background: -webkit-linear-gradient(top, #e7eaf0, #d9dce1);
+  background: -o-linear-gradient(top, #e7eaf0, #d9dce1);
+  background: -ms-linear-gradient(top, #e7eaf0, #d9dce1);
+  background: linear-gradient(top, #e7eaf0, #d9dce1);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e7eaf0', endColorstr='#d9dce1',GradientType=0);
+  *zoom: 1;
+  -webkit-box-shadow: 0 1px 3px rgba(255, 255, 255, 0.6) inset;
+  -moz-box-shadow: 0 1px 3px rgba(255, 255, 255, 0.6) inset;
+  box-shadow: 0 1px 3px rgba(255, 255, 255, 0.6) inset;
+}
+
+.bia-item .bia-action-button:active {
+  background-color: #dcdfe3;
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2) inset;
+  -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2) inset;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2) inset;
+}
+
+.bia-item .bia-action-button-disabled {
+  background: #f7f8fa;
+  color: #b7b7b7;
+  border-color: #e0e0e0;
+  box-shadow: none;
+  cursor: default;
+}
+
+.bia-item .bia-action-button-disabled:hover {
+  background: #f7f8fa;
+  color: #b7b7b7;
+  border-color: #e0e0e0;
+  box-shadow: none;
+  cursor: default;
+}
+
+.bia-action-button-inner {
+  border-bottom-color: #111111;
+  border-bottom-style: none;
+  border-bottom-width: 0px;
+  border-image-outset: 0px;
+  border-image-repeat: stretch;
+  border-image-slice: 100%;
+  border-image-width: 1;
+  border-left-color: #111111;
+  border-left-style: none;
+  border-left-width: 0px;
+  border-right-color: #111111;
+  border-right-style: none;
+  border-right-width: 0px;
+  border-top-color: #111111;
+  border-top-style: none;
+  border-top-width: 0px;
+  box-sizing: border-box;
+  display: block;
+  height: 20px;
+  line-height: 19px;
+  overflow: hidden;
+  position: relative;
+  padding: 0;
+  vertical-align: baseline;
+}
+
+.bia-action-inner {
+  border: 0;
+  display: inline;
+  font-size: 11px;
+  height: auto;
+  line-height: 19px;
+  padding: 0px 4px 0px 4px;
+  text-align: center;
+  width: auto;
+  white-space: nowrap;
+}
+
+.csr-content {
+  font-family: Arial, Verdana, Helvetica, sans-serif;
+  width: 220px;
+  line-height: 19px;
+}
+
+.bia-header {
+  font-size: 16px;
+  color: #E47911;
+  padding-bottom: 10px;
+}
+
+.bia-header-widget {
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.b2b-nav-header {
+  white-space: nowrap;
+  overflow: hidden;
+  margin-bottom: 18px;
+}
+
+.bia-space-right {
+  padding-right: 18px;
+  white-space: normal;
+  float: left;
+}
+
+.b2b-see-more-link a {
+  display: inline;
+  float: left;
+  margin-top: 3px;
+  margin-left: 3px;
+}
+
+.hcb-see-more-link a {
+  color: #333;
+  font-size: 13px;
+  text-decoration: none;
+  font-family: Arial, Verdana, Helvetica, sans-serif;
+}
+
+.bia-hcb-body {
+  overflow: hidden;
+}
+
+.bia-item {
+  width: 220px;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.bia-item-image {
+  float: left;
+  margin-right: 15px;
+  width: 75px;
+  height: 75px;
+}
+
+.bia-image {
+  max-height: 75px;
+  max-width: 75px;
+  border: 0;
+}
+
+.bia-item-data {
+  float: left;
+  width: 130px;
+}
+
+.bia-title {
+  line-height: 19px;
+  font-size: 13px;
+  max-height: 60px;
+  overflow: hidden;
+}
+
+.bia-link:link {
+  text-decoration: none;
+  font-family: Arial, Verdana, Helvetica, sans-serif;
+}
+
+.bia-link:visited {
+  text-decoration: none;
+  color: #004B91;
+}
+
+.bia-price-nav {
+  margin-top: -4px;
+  color: #800;
+  font-size: 12px;
+  vertical-align: bottom;
+}
+
+.bia-price-yorr {
+    margin-top: -8px;
+    color: #800;
+    font-size: 12px;
+    vertical-align: bottom;
+}
+
+.bia-price {
+  color: #800;
+  font-size: 12px;
+  vertical-align: bottom;
+}
+
+.bia-vpc-t1{
+  color: #008a00;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.bia-vpc-t2{
+  color: #008a00;
+  font-size: 12px;
+}
+
+.bia-vpc-t3{
+  font-size: 12px;
+  line-height: 20px;
+}
+
+.bia-vpc-t3-badge{
+  color: #ffffff;
+  background-color: #e47911;
+  font-weight: normal;
+
+}
+
+.bia-vpc-t3-badge::before{
+  border-bottom: 10px solid #e47911;
+}
+
+.bia-vpc-t3-badge:after{
+  border-top: 10px solid #e47911;
+}
+
+.bia-ppu {
+  color: #800;
+  font-size: 10px;
+}
+
+.bia-prime-badge {
+  border: 0;
+  vertical-align: middle;
+}
+
+.bia-cart-action {
+  display: none;
+}
+
+.bia-cart-msg {
+  display: block;
+  font-family: Arial, Verdana, Helvetica, sans-serif;
+  line-height: 19px;
+}
+
+.bia-cart-icon {
+  background-image:
+      url("https://images-na.ssl-images-amazon.com/images/G/15/Recommendations/MissionExperience/BIA/bia-atc-confirm-icon.jpg");
+  display: inline-block;
+  width: 14px;
+  height: 13px;
+  top: 3px;
+  line-height: 19px;
+  position: relative;
+  vertical-align: top;
+}
+
+.bia-cart-success {
+  color: #090!important;
+  display: inline-block;
+  margin: 0;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: bold;
+  font-family: Arial, Verdana, Helvetica, sans-serif;
+}
+
+.bia-cart-title {
+  margin-bottom: 3px;
+}
+
+.bia-cart-form {
+  margin: 0px;
+}
+
+.bia-inline-cart-form {
+  margin: 0px;
+}
+
+.bia-cart-submit {
+  cursor: inherit;
+  left: 0;
+  top: 0;
+  line-height: 19px;
+  height: 100%;
+  width: 100%;
+  padding: 1px 6px 1px 6px;
+  position: absolute;
+  opacity: 0.01;
+  overflow: visible;
+  filter: alpha(opacity=1);
+  z-index: 20;
+}
+
+.bia-link-caret {
+  color: #e47911;
+}
+
+</style>
+
+
+
+
+<script type="text/javascript">
+(function ($Nav) {
+"use strict";
+
+if (typeof $Nav === 'undefined' || $Nav === null || typeof $Nav.when !== 'function') {
+    return;
+}
+$Nav.when('$', 'data', 'flyout.yourAccount', 'sidepanel.csYourAccount',
+          'config')
+    .run("BuyitAgain-YourAccount-SidePanel",
+    function ($, data, yaFlyout, csYourAccount, config) {
+        if (config.disableBuyItAgain) {
+          return;
+        }
+        var render = function (data) {
+            if (data.status) {
+                var widgetHtml = data.widgetBegin +
+                                 data.faceouts.join('') +
+                                 data.widgetEnd;
+                navbar.sidePanel({
+                    flyoutName: 'yourAccount',
+                    data: {html: widgetHtml}
+                });
+            }
+        };
+
+        var renderBuyItAgain = function (biaData) {
+            if (csYourAccount) {
+                csYourAccount.register(render, biaData);
+            } else {
+                render(biaData);
+            }
+        };
+
+        yaFlyout.sidePanel.onData(function() {
+            enableInlineAddToCart($);
+            enableImpressionLogging($);
+
+            P.when('A','p13n-sc-static-list').execute(function(A, StaticList) {
+                var navContainer = A.$("#bia-hcb-widget");
+                var navList = navContainer.find('.p13n-sc-static-list');
+                A.$(navList).bind('truncateList', function() {
+                    var staticList = new StaticList(navList);
+                });
+
+                A.$(navList).trigger('truncateList');
+            });
+
+            if (window.P) {
+                P.when('A', 'a-truncate').execute(function(A, truncate) {
+                    var truncateElements = A.$('.a-truncate');
+                    A.each(truncateElements, function(element) {
+                        truncate.get(element).update();
+                    });
+                });
+            }
+
+        });
+
+    yaFlyout.onRender(function() {
+            $.ajax({
+                url: '/gp/bia/external/bia-hcb-ajax-handler.html',
+                data: 
+
+
+
+
+   {"biaHcbRid":"3FFX9B8792R4AXNRZWAA"},
+                dataType: 'json',
+                timeout: 4*1000,
+                success: renderBuyItAgain,
+                error: function (jqXHR, textStatus, errorThrown) {
+                }
+            });
+        });
+
+
+    var updateNavCartQty = function(qty) {
+        if (typeof window.navbar === 'object' && typeof window.navbar.setCartCount === 'function') {
+            window.navbar.setCartCount(qty);
+        }
+    };
+
+    var addToCart = function(params, callback) {
+        $.ajax({
+           url: '/gp/bia/external/bia-cart-ajax-handler.html',
+           data: params,
+           dataType: 'json', 
+           timeout: 2000,
+           success: function(response) { callback(response); },
+           error: function() { callback({ok:0}); }
+        });
+    };
+
+    var enableInlineAddToCart = function ($) {
+        if ($(".bia-inline-cart-form").length === 0) {
+            return;
+        }
+
+        var inlineAddToCartHandler = function(e) {
+            e.preventDefault();
+
+            var $target = $(e.target);
+            var $item = $target.parents(".bia-item");
+            var $submit = $item.find(".bia-cart-submit");
+            var params = $target.attr('data-order');
+
+            $submit.attr("disabled", true);
+            $item.find(".bia-action-button").addClass("bia-action-button-disabled");
+
+            addToCart(params, 
+                function(response) {
+                    if(response && response.ok && response.ok === '1') {
+                        $item.find(".bia-faceout").hide();
+                        $item.find(".bia-cart-action").show();
+                        updateNavCartQty(response.numActiveItemsInCart); 
+                        //TODO: add metric
+                    } else {
+                        $target.unbind("submit", inlineAddToCartHandler);
+                        $submit.attr("disabled", false);
+                        $submit.click();
+                        //TODO: add metric
+                    }
+                }
+            );
+        };
+
+        $(".bia-inline-cart-form").bind("submit", inlineAddToCartHandler);
+    };
+
+    var enableImpressionLogging = function ($) {
+
+        var registerToLog = function (p13nLogger, callOnVisible) {
+            var featureEl = $("#bia-hcb-widget");
+            callOnVisible.register(featureEl, function () {
+                p13nLogger.logAction({
+                                action: 'view', 
+                                featureElement: featureEl, 
+                                replicateAsinImpressions: true
+                              });
+            });
+        };
+        
+        AmazonUIPageJS.when('p13n-sc-logger', 'p13n-sc-call-on-visible')
+            .execute(function(p13nLogger, callOnVisible) {
+                    registerToLog(p13nLogger, callOnVisible);});
+    };
+
+    });
+
+})(window.$Nav);
+//# sourceURL=bia-hcb-js.mi
+</script>
+
+
+
+
+
+
+
+
+<div style="display: none">
+  <div id="nav-prime-menu" class="nav-empty nav-flyout-content nav-ajax-prime-menu">
+    <div class="nav_dynamic"></div>
+    <div class="nav-ajax-message"></div>
+    <div class="nav-ajax-error-msg">
+      <p class="nav_p nav-bold"></p>
+      <p class="nav_p"><a href="/gp/prime" class="nav_a"></a></p>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <script type='text/javascript'>
+      window.$Nav && $Nav.declare('config.prefetchUrls', ["https://images-na.ssl-images-amazon.com/images/G/01/authportal/common/images/amznbtn-sprite03._CB485966112_.png","https://images-na.ssl-images-amazon.com/images/G/15/authportal/common/images/amazon_logo_no-org_mid._CB485934468_.png","https://images-na.ssl-images-amazon.com/images/G/15/authportal/flex/reduced-nav/ap-flex-reduced-nav-2.0._CB485968692_.js","https://images-na.ssl-images-amazon.com/images/G/15/authportal/flex/reduced-nav/ap-flex-reduced-nav-2.1._CB485967459_.css","https://images-na.ssl-images-amazon.com/images/G/15/gno/images/general/navAmazonLogoFooter._CB485935168_.gif","https://images-na.ssl-images-amazon.com/images/G/15/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405936603_.png","https://images-na.ssl-images-amazon.com/images/G/15/x-locale/common/buttons/sign-in-secure._CB485941596_.gif","https://images-na.ssl-images-amazon.com/images/G/15/x-locale/common/login/fwcim._CB481732238_.js","https://images-na.ssl-images-amazon.com/images/G/15/x-locale/common/transparent-pixel._CB485935025_.gif","https://images-na.ssl-images-amazon.com/images/G/15/x-locale/communities/social/snwicons_v2._CB478838660_.png","https://images-na.ssl-images-amazon.com/images/G/15/x-locale/cs/help/images/spotlight/kindle-family-02b._CB485941971_.jpg","https://images-na.ssl-images-amazon.com/images/G/15/x-locale/cs/orders/images/acorn._CB485934536_.gif","https://images-na.ssl-images-amazon.com/images/G/15/x-locale/cs/orders/images/amazon-gc-100._CB485934131_.gif","https://images-na.ssl-images-amazon.com/images/G/15/x-locale/cs/orders/images/amazon-gcs-100._CB485935754_.gif","https://images-na.ssl-images-amazon.com/images/G/15/x-locale/cs/orders/images/btn-close._CB485934064_.gif","https://images-na.ssl-images-amazon.com/images/G/15/x-locale/cs/ya/images/new-link._CB485946485_.gif","https://images-na.ssl-images-amazon.com/images/G/15/x-locale/cs/ya/images/shipment_large_lt._CB485924119_.gif"]);
+window.$Nav && $Nav.declare('config.prefetch',function() {
+    var pUrls = window.$Nav.getNow('config.prefetchUrls');
+    (window.AmazonUIPageJS ? AmazonUIPageJS : P).when('A').execute(function (A) { A.preload(pUrls); });
+});
+
+  /*  */
+  
+
+(window.AmazonUIPageJS ? AmazonUIPageJS : P).when('A').execute(function(A){
+  if(A.preload){
+    A.preload('https://images-na.ssl-images-amazon.com/images/I/41X5NPwXigL._RC|713Fk6Pg8sL.js,61l-paIJdLL.js,41W9ohA0e+L.js,11vrNkbdcvL.js,21cmvUGs-3L.js,41DFEkYe9bL.js,51OfJS9QO2L.js,313jWehHlpL.js_.js?AUIClients/NavDesktopMetaAsset&ZUIyZrxo#desktop');
+    A.preload('https://images-na.ssl-images-amazon.com/images/I/41icwgAxVqL._RC|715xYE2+CQL.css,21qFIynv1ZL.css,31FX6DlOvlL.css,21lRUdwotiL.css,41oKRlyPnmL.css,11G4HxMtMSL.css,31OvHRW+XiL.css,01XHMOHpK1L.css_.css?AUIClients/NavDesktopMetaAsset&ZUIyZrxo#desktop');
+  }
+});
+
+
+
+
+    window.$Nav && $Nav.declare('config.flyoutURL', null);
+    window.$Nav && $Nav.declare('btf.lite');
+    window.$Nav && $Nav.declare('btf.full');
+    window.$Nav && $Nav.declare('btf.exists');
+    (window.AmazonUIPageJS ? AmazonUIPageJS : P).register('navCF');
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- NAVYAAN BTF START -->
+
+
+  <script type="text/javascript">window.$Nav && $Nav.when("data").run(function(data){data({"accountListContent":{"html":"<div id='nav-al-container'><div id='nav-al-signin'><div id='nav-flyout-ya-signin' class='nav-flyout-content nav-flyout-accessibility'><a href='https://www.amazon.ca/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.ca%2FMembrane-Filters-eCon-Lab-Supply%2Fs%2F%3F_encoding%3DUTF8%26c%3Dts%26keywords%3DMembrane%2520Filters%26rh%3Dn%253A11849324011%252Cp_6%253AA28Z92B3AX8B3S%26ts_id%3D11849324011%26ref_%3Dnav_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=caflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&' rel='nofollow' class='nav-action-button' data-nav-role='signin' data-nav-ref='nav_signin'><span class='nav-action-inner'>Sign in</span></a><div id='nav-flyout-ya-newCust' class='nav_pop_new_cust nav-flyout-content nav-flyout-accessibility'>New customer? <a href='https://www.amazon.ca/ap/register?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.ca%2FMembrane-Filters-eCon-Lab-Supply%2Fs%2F%3F_encoding%3DUTF8%26c%3Dts%26keywords%3DMembrane%2520Filters%26rh%3Dn%253A11849324011%252Cp_6%253AA28Z92B3AX8B3S%26ts_id%3D11849324011%26ref_%3Dnav_newcust&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=caflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&' rel='nofollow' class='nav-a'>Start here.</a></div></div></div><div id='nav-al-wishlist' class='nav-al-column nav-tpl-itemList nav-flyout-content nav-flyout-accessibility'><div class='nav-title' id='nav-al-title'>Your Lists</div><a href='/gp/registry/wishlist?triggerElementID=createList&ref_=nav_ListFlyout_gno_createwl' class='nav-link nav-item'><span class='nav-text'>Create a Wish List</span></a> <a href='/gp/registry/search.html?type=wishlist&ref_=nav_ListFlyout_gno_listpop_find' class='nav-link nav-item'><span class='nav-text'>Find a Wish List</span></a> <a href='/wishlist/universal?ref_=nav_ListFlyout_gno_listpop_uwl' class='nav-link nav-item'><span class='nav-text'>Wish from Any Website</span></a> <a href='/gcx/-/gfhz/?_encoding=UTF8&ref_=nav_wishlist_gf' class='nav-link nav-item'><span class='nav-text'>Find a Gift</span></a> <a href='/baby-reg/homepage?ref_=nav_ListFlyout_gno_listpop_br' class='nav-link nav-item'><span class='nav-text'>Baby Registry</span></a> <a href='/wedding/home?ref_=nav_ListFlyout_wr' class='nav-link nav-item'><span class='nav-text'>Wedding Registry</span></a> <a href='/discover' class='nav-link nav-item'><span class='nav-text'>Discover Your Style</span></a> <a href='/showroom?ref_=nav_ListFlyout_srm_your_desk_wl_ca' class='nav-link nav-item'><span class='nav-text'>Explore Showroom</span></a></div><div id='nav-al-your-account' class='nav-al-column nav-template nav-flyout-content nav-tpl-itemList nav-flyout-accessibility'><div class='nav-title'>Your Account</div><a href='/gp/css/homepage.html?ref_=nav_AccountFlyout_ya' class='nav-link nav-item'><span class='nav-text'>Your Account</span></a> <a id='nav_prefetch_yourorders' href='/gp/css/order-history?ref_=nav_AccountFlyout_orders' class='nav-link nav-item'><span class='nav-text'>Your Orders</span></a> <a href='/gp/yourstore?ref_=nav_AccountFlyout_recs' class='nav-link nav-item'><span class='nav-text'>Your Recommendations</span></a> <a href='/auto-deliveries?ref_=nav_AccountFlyout_sns' class='nav-link nav-item'><span class='nav-text'>Your Subscribe & Save Items</span></a> <a href='/gp/primecentral?ref_=nav_AccountFlyout_prime' class='nav-link nav-item'><span class='nav-text'>Your Prime Membership</span></a> <a href='/hz5/yourmembershipsandsubscriptions?ref_=nav_AccountFlyout_digital_subscriptions' class='nav-link nav-item'><span class='nav-text'>Memberships & Subscriptions</span></a> <a href='/dp/B07MJM4F44?plattr=CACBCCNAVACC&ref_=nav_cbcc_ca_account' class='nav-link nav-item'><span class='nav-text'>Your Amazon Credit Card</span></a> <a href='/gp/browse.html?node=18993177011&ref_=nav_AccountFlyout_b2b_reg' class='nav-link nav-item'><span class='nav-text'>Register for a Business Account</span></a> <a href='/hz/mycd/myx?ref_=nav_AccountFlyout_myk' class='nav-link nav-item'><span class='nav-text'>Manage Your Content and Devices</span></a> <a href='https://music.amazon.ca?ref=nav_youraccount_cldplyr' class='nav-link nav-item'><span class='nav-text'>Your Music Library</span></a> <a href='/gp/video/ssoredirect?pvp=/ref%3Dnav_youraccount_apv&ref_=nav_AccountFlyout__apv' class='nav-link nav-item'><span class='nav-text'>Your Prime Video</span></a> <a href='/clouddrive?ref_=nav_AccountFlyout_clddrv' class='nav-link nav-item'><span class='nav-text'>Your Amazon Drive</span></a> <a href='/gp/mas/your-account/myapps?ref_=nav_AccountFlyout_aad' class='nav-link nav-item'><span class='nav-text'>Your Apps & Devices</span></a></div></div>"},"signinContent":{"html":"<div id='nav-signin-tooltip'><a href='https://www.amazon.ca/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.ca%2FMembrane-Filters-eCon-Lab-Supply%2Fs%2F%3F_encoding%3DUTF8%26c%3Dts%26keywords%3DMembrane%2520Filters%26rh%3Dn%253A11849324011%252Cp_6%253AA28Z92B3AX8B3S%26ts_id%3D11849324011%26ref_%3Dnav_custrec_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=caflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&' class='nav-action-button' data-nav-role='signin' data-nav-ref='nav_custrec_signin'><span class='nav-action-inner'>Sign in</span></a><div class='nav-signin-tooltip-footer'>New customer? <a href='https://www.amazon.ca/ap/register?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.ca%2FMembrane-Filters-eCon-Lab-Supply%2Fs%2F%3F_encoding%3DUTF8%26c%3Dts%26keywords%3DMembrane%2520Filters%26rh%3Dn%253A11849324011%252Cp_6%253AA28Z92B3AX8B3S%26ts_id%3D11849324011%26ref_%3Dnav_custrec_newcust&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=caflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&' class='nav-a'>Start here.</a></div></div>"},"templates":{"itemList":"<# var hasColumns = (function () {  var checkColumns = function (_items) {    if (!_items) {      return false;    }    for (var i=0; i<_items.length; i++) {      if (_items[i].columnBreak || (_items[i].items && checkColumns(_items[i].items))) {        return true;      }    }    return false;  };  return checkColumns(items);}()); #><# if(hasColumns) { #>  <# if(items[0].image && items[0].image.src) { #>    <div class='nav-column nav-column-first nav-column-image'>  <# } else if (items[0].greeting) { #>    <div class='nav-column nav-column-first nav-column-greeting'>  <# } else { #>    <div class='nav-column nav-column-first'>  <# } #><# } #><# var renderItems = function(items) { #>  <# jQuery.each(items, function (i, item) { #>    <# if(hasColumns && item.columnBreak) { #>      <# if(item.image && item.image.src) { #>        </div><div class='nav-column nav-column-notfirst nav-column-break nav-column-image'>      <# } else if (item.greeting) { #>        </div><div class='nav-column nav-column-notfirst nav-column-break nav-column-greeting'>      <# } else { #>        </div><div class='nav-column nav-column-notfirst nav-column-break'>      <# } #>    <# } #>    <# if(item.dividerBefore) { #>      <div class='nav-divider'></div>    <# } #>    <# if(item.text || item.content) { #>      <# if(item.url) { #>        <a href='<#=item.url #>' class='nav-link      <# } else {#>        <span class='      <# } #>      <# if(item.panelKey) { #>        nav-hasPanel      <# } #>      <# if(item.items) { #>        nav-title      <# } #>      <# if(item.decorate == 'carat') { #>        nav-carat      <# } #>      <# if(item.decorate == 'nav-action-button') { #>        nav-action-button      <# } #>      nav-item'      <# if(item.extra) { #>        <#=item.extra #>      <# } #>      <# if(item.id) { #>        id='<#=item.id #>'      <# } #>      <# if(item.dataNavRole) { #>        data-nav-role='<#=item.dataNavRole #>'      <# } #>      <# if(item.dataNavRef) { #>        data-nav-ref='<#=item.dataNavRef #>'      <# } #>      <# if(item.panelKey) { #>        data-nav-panelkey='<#=item.panelKey #>'        role='navigation'        aria-label='<#=item.text#>'      <# } #>      <# if(item.subtextKey) { #>        data-nav-subtextkey='<#=item.subtextKey #>'      <# } #>      <# if(item.image && item.image.height > 16) { #>        style='line-height:<#=item.image.height #>px;'      <# } #>      >      <# if(item.decorate == 'carat') { #>        <i class='nav-icon'></i>      <# } #>      <# if(item.image && item.image.src) { #>        <img class='nav-image' src='<#=item.image.src #>' style='height:<#=item.image.height #>px; width:<#=item.image.width #>px;' />      <# } #>      <# if(item.text) { #>        <span class='nav-text<# if(item.classname) { #> <#=item.classname #><# } #>'><#=item.text#><# if(item.badgeText) { #>          <span class='nav-badge'><#=item.badgeText#></span>        <# } #></span>      <# } else if (item.content) { #>        <span class='nav-content'><# jQuery.each(item.content, function (j, cItem) { #><# if(cItem.url && cItem.text) { #><a href='<#=cItem.url #>' class='nav-a'><#=cItem.text #></a><# } else if (cItem.text) { #><#=cItem.text#><# } #><# }); #></span>      <# } #>      <# if(item.subtext) { #>        <span class='nav-subtext'><#=item.subtext #></span>      <# } #>      <# if(item.url) { #>        </a>      <# } else {#>        </span>      <# } #>    <# } #>    <# if(item.image && item.image.src) { #>      <# if(item.url) { #>        <a href='<#=item.url #>'>       <# } #>      <img class='nav-image'      <# if(item.id) { #>        id='<#=item.id #>'      <# } #>      src='<#=item.image.src #>' <# if (item.alt) { #> alt='<#= item.alt #>'<# } #>/>      <# if(item.url) { #>        </a>       <# } #>    <# } #>    <# if(item.items) { #>      <div class='nav-panel'> <# renderItems(item.items); #> </div>    <# } #>  <# }); #><# }; #><# renderItems(items); #><# if(hasColumns) { #>  </div><# } #>"}})})</script>
+
+  
+
+
+
+
+
+<!-- NAVYAAN BTF END -->
+
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class='navLeftFooter nav-sprite-v1' id='navFooter'><a href="#nav-top" id="navBackToTop"><div class="navFooterBackToTop"><span class="navFooterBackToTopText">Back to top</span></div></a>
+
+<div class="navFooterVerticalColumn navAccessibility" role="presentation"><div class="navFooterVerticalRow navAccessibility" style="display: table-row;"><div class="navFooterLinkCol navAccessibility"><div class="navFooterColHead">Get to Know Us</div><ul><li class='nav_first'><a href='https://www.amazon.jobs' class='nav_a'>Careers</a></li><li><a href='/gp/help/customer/display.html?ie=UTF8&amp;nodeId=200700220&amp;ref_=footer_corpres' class='nav_a'>Amazon and Our Planet</a></li><li><a href='https://www.amazon.ca/ir' class='nav_a'>Investor Relations</a></li><li class='nav_last'><a href='https://www.amazon.ca/pr' class='nav_a'>Press Releases</a></li></ul></div><div class="navFooterColSpacerInner navAccessibility"></div><div class="navFooterLinkCol navAccessibility"><div class="navFooterColHead">Make Money with Us</div><ul><li class='nav_first'><a href='/b/?_encoding=UTF8&amp;ld=AZCASOA-footer&amp;node=15664730011&amp;ref_=footer_sell' class='nav_a'>Sell on Amazon</a></li><li><a href='https://accelerator.amazon.ca/?ref_=map_1_b2b_GW_FT' class='nav_a'>Sell Under Amazon Accelerator</a></li><li><a href='https://associates.amazon.ca' class='nav_a'>Amazon Associates</a></li><li><a href='/b/?_encoding=UTF8&amp;ld=AZCAHND-footer&amp;node=16927192011&amp;ref_=footer_sell' class='nav_a'>Sell on Amazon Handmade</a></li><li><a href='https://advertising.amazon.ca/?ref=footer_advtsing_amzn_ca' class='nav_a'>Advertise Your Products</a></li><li><a href='https://kdp.amazon.com?language=en_US' class='nav_a'>Independently Publish with Us</a></li><li class='nav_last'><a href='https://www.amazon.ca/b?ie=UTF8&amp;node=15576834011' class='nav_a'>Host an Amazon Hub</a></li></ul></div><div class="navFooterColSpacerInner navAccessibility"></div><div class="navFooterLinkCol navAccessibility"><div class="navFooterColHead">Amazon Payment Products</div><ul><li class='nav_first'><a href='/dp/B07MJM4F44?_encoding=UTF8&amp;plattr=CACBCCFOOT&amp;ref_=nav_cbcc_ca_footer' class='nav_a'>Amazon.ca Rewards Mastercard</a></li><li><a href='/b?ie=UTF8&amp;node=21371066011&amp;ref_=footer_swp' class='nav_a'>Shop with Points</a></li><li><a href='/gp/gc/create?ie=UTF8&amp;ref_=footer_reload_ca' class='nav_a'>Reload Your Balance</a></li><li><a href='/b?ie=UTF8&amp;node=8438004011&amp;ref_=footer_tfx_ca_en' class='nav_a'>Amazon Currency Converter</a></li><li><a href='/gift-cards-store/b?ie=UTF8&amp;node=9230166011&amp;ref_=footer_gift_cards_ca_en' class='nav_a'>Gift Cards</a></li><li class='nav_last'><a href='/b?ie=UTF8&amp;node=17321486011&amp;ref_=footer_cash_ca_en' class='nav_a'>Amazon Cash</a></li></ul></div><div class="navFooterColSpacerInner navAccessibility"></div><div class="navFooterLinkCol navAccessibility"><div class="navFooterColHead">Let Us Help You</div><ul><li class='nav_first'><a href='/gp/help/customer/display.html?ie=UTF8&amp;nodeId=GDFU3JS5AL6SYHRD&amp;ref_=footer_covid' class='nav_a'>COVID-19 and Amazon</a></li><li><a href='/gp/help/customer/display.html?ie=UTF8&amp;nodeId=915470&amp;ref_=footer_shiprates' class='nav_a'>Shipping Rates & Policies</a></li><li><a href='/gp/prime?ie=UTF8&amp;ref_=footer_prime' class='nav_a'>Amazon Prime</a></li><li><a href='/gp/css/returns/homepage.html?ie=UTF8&amp;ref_=footer_hy_f_4' class='nav_a'>Returns Are Easy</a></li><li><a href='/hz/mycd/myx?_encoding=UTF8&amp;ref_=footer_myk' class='nav_a'>Manage your Content and Devices</a></li><li class='nav_last'><a href='/gp/help/customer/display.html?ie=UTF8&amp;nodeId=508510&amp;ref_=footer_gw_m_b_he' class='nav_a'>Customer Service</a></li></ul></div></div></div><div class="nav-footer-line"></div>
+   
+<div class="navFooterLine navFooterLinkLine navFooterPadItemLine"><span><div class="navFooterLine navFooterLogoLine"><a href="/?_encoding=UTF8&ref_=footer_logo"><div class="nav-logo-base nav-sprite"></div></a></div>
+</span><ul></ul><span class="icp-container-desktop"><div class="navFooterLine">
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<style type="text/css">
+  #icp-touch-link-language { display: none; }
+</style>
+
+<a href="/gp/customer-preferences/select-language?ie=UTF8&preferencesReturnUrl=%2F" class="icp-button" id="icp-touch-link-language">
+  <div class="icp-nav-globe-img-2 icp-button-globe-2"></div
+  ><span class="icp-color-base">English</span
+  ><span class="nav-arrow icp-up-down-arrow"></span
+  ><span class="aok-hidden" style="display:none">Choose a language for shopping.</span>
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+#icp-touch-link-country { display: none; }
+</style>
+
+  
+
+
+
+<a href="/gp/navigation-country/select-country?ie=UTF8&preferencesReturnUrl=%2F" class="icp-button" id="icp-touch-link-country">
+  <span class="icp-flag-3 icp-flag-3-ca"></span
+  ><span class="icp-color-base">Canada</span
+  ><span class="aok-hidden" style="display:none">Choose a country/region for shopping.</span>
+</a>
+
+
+</div>
+</span><ul></ul></div>
+
+<div class="navFooterLine navFooterLinkLine navFooterDescLine"><table class="navFooterMoreOnAmazon" cellspacing="0"><tr>
+<td class="navFooterDescItem"><a href='https://music.amazon.ca?ref=dm_aff_amz_ca' class='nav_a'>Amazon Music<br/> <span class="navFooterDescText">Stream millions<br/> of songs</span></a></td>
+<td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem"><a href='https://advertising.amazon.ca/?ref=footer_advtsing_amzn_ca' class='nav_a'>Amazon Advertising<br/> <span class="navFooterDescText">Find, attract, and<br/> engage customers</span></a></td>
+<td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem"><a href='/b?ie=UTF8&amp;node=16055945011&amp;ref_=ca_footer_drive' class='nav_a'>Amazon Drive<br/> <span class="navFooterDescText">Cloud storage<br/> from Amazon</span></a></td>
+<td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem"><a href='https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&amp;sc_campaign=CA_amazonfooter' class='nav_a'>Amazon Web Services<br/> <span class="navFooterDescText">Scalable Cloud<br/> Computing Services</span></a></td>
+<td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem"><a href='https://www.bookdepository.com/' class='nav_a'>Book Depository<br/> <span class="navFooterDescText">Books With Free<br/> Delivery Worldwide</span></a></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td class="navFooterDescItem"><a href='https://www.goodreads.com/' class='nav_a'>Goodreads<br/> <span class="navFooterDescText">Book reviews<br/> & recommendations</span></a></td>
+<td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem"><a href='https://www.imdb.com/' class='nav_a'>IMDb<br/> <span class="navFooterDescText">Movies, TV<br/> & Celebrities</span></a></td>
+<td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem"><a href='/b?ie=UTF8&amp;node=16055944011&amp;ref_=gno_p_foot' class='nav_a'>Amazon Photos<br/> <span class="navFooterDescText">Unlimited Photo Storage<br/> Free With Prime</span></a></td>
+<td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem"><a href='https://www.shopbop.com/ca/welcome' class='nav_a'>Shopbop<br/> <span class="navFooterDescText">Designer<br/> Fashion Brands</span></a></td>
+<td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem"><a href='/b?ie=UTF8&amp;node=8929975011&amp;ref_=footer_warehouse_deals' class='nav_a'>Warehouse Deals<br/> <span class="navFooterDescText">Open-Box<br/> Discounts</span></a></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td class="navFooterDescItem">&nbsp;</td>
+<td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem"><a href='https://www.wholefoodsmarket.com' class='nav_a'>Whole Foods Market<br/> <span class="navFooterDescText">We Believe in<br/> Real Food</span></a></td>
+<td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem"><a href='/b?ie=UTF8&amp;node=17351028011&amp;ref_=footer_carenew' class='nav_a'>Amazon Renewed<br/> <span class="navFooterDescText">Like-new products<br/> you can trust</span></a></td>
+<td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem"><a href='/amazonsecondchance?_encoding=UTF8&amp;ref_=footer_asc' class='nav_a'>Amazon Second Chance<br/> <span class="navFooterDescText">Pass it on, trade it in,<br/> give it a second life</span></a></td>
+<td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem">&nbsp;</td>
+</tr>
+</table></div>
+   
+<div class="navFooterLine navFooterLinkLine navFooterPadItemLine navFooterCopyright"><ul><li class='nav_first'><a href='/gp/help/customer/display.html?ie=UTF8&amp;nodeId=918816&amp;ref_=footer_cou' class='nav_a'>Conditions of Use</a></li><li><a href='/gp/help/customer/display.html?ie=UTF8&amp;nodeId=918814&amp;ref_=footer_privacy' class='nav_a'>Privacy Notice</a></li><li class='nav_last'><a href='/gp/help/customer/display.html?ie=UTF8&amp;nodeId=202146130&amp;ref_=footer_iba' class='nav_a'>Interest-Based Ads</a></li></ul><span>© 2008-2020, Amazon.com, Inc. or its affiliates</span><ul></ul></div>
+</div><!-- whfh-bSVM4XY02LKJiRHQxXzS68DpLV813j/gcn0QTDBOxmStulEh6yiUf9OvYJECJAWD rid-3FFX9B8792R4AXNRZWAA -->
+<div id="sis_pixel_r2" aria-hidden="true" style="height:1px; position: absolute; left: -1000000px; top: -1000000px;"></div>
+
+
+
+
+
+
+  </div><!-- for #bottom -->
+</div></body><!-- for body -->
+</html><!-- for page -->
+
+
+
+
+
+
+
+
+
