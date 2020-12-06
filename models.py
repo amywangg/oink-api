@@ -12,6 +12,8 @@ class Customer(db.Model):
     email = db.Column(db.String(100))
     budgets = db.relationship('Budget', backref='customer', lazy=True)
     purchases = db.relationship('Purchase', backref='customer', lazy=True)
+    items = db.relationship('Item', backref='customer', lazy=True)
+
     backref = db.backref('Customer', lazy='joined')
 
     def __init__(self, client_id, first_name, last_name, email):
@@ -59,6 +61,9 @@ class Budget(db.Model):
             'date': self.date
         }
 
+    def serialize_list(l):
+        return [m.serialize() for m in l]
+
 
 class Purchase(db.Model):
     __tablename__ = 'purchase'
@@ -86,6 +91,9 @@ class Purchase(db.Model):
             'date': self.date,
         }
 
+    def serialize_list(l):
+        return [m.serialize() for m in l]
+
 
 class Item(db.Model):
     __tablename__ = 'item'
@@ -93,14 +101,19 @@ class Item(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     purchase_id = db.Column(db.Integer, db.ForeignKey(
         'purchase.id'), nullable=False)
+    customer_id = db.Column(db.String(100), db.ForeignKey(
+        'customer.id'), nullable=False)
     price = db.Column(db.Float(), nullable=False)
     category = db.Column(db.String(100))
+    name = db.Column(db.Text())
     date = db.Column(db.DateTime(), server_default=func.now())
 
-    def __init__(self, purchase_id, price, category):
+    def __init__(self, customer_id, purchase_id, price, category, name):
+        self.customer_id = customer_id
         self.purchase_id = purchase_id
         self.price = price
         self.category = category
+        self.name = name
 
     def __repr__(self):
         return '<id {}>'.format(self.id)
@@ -111,5 +124,8 @@ class Item(db.Model):
             'purchase_id': self.purchase_id,
             'price': self.price,
             'category': self.category,
+            'name': self.name,
             'date': self.date,
         }
+    def serialize_list(l):
+        return [m.serialize() for m in l]

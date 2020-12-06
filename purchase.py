@@ -35,10 +35,11 @@ def getPurchase(purchase_id):
     except Exception as e:
         return(str(e))
 
+
 @purchase.route("/user/<customer_id>", methods=['GET'])
 def getAllPurchases(customer_id):
     try:
-        purchases = Purchase.query.select().where(customer_id=customer_id)
-        return jsonify(purchases.serialize())
+        purchases = Purchase.query.filter_by(customer_id=customer_id).all()
+        return jsonify(Purchase.serialize_list(purchases))
     except Exception as e:
         return(str(e))

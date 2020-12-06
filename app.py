@@ -5,6 +5,8 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_cors import CORS
 from customer import customer
 from budget import budget
+from item import item
+from purchase import purchase
 
 import os
 
@@ -12,6 +14,8 @@ app = Flask(__name__)
 # register blueprint routes
 app.register_blueprint(customer, url_prefix='/user')
 app.register_blueprint(budget, url_prefix='/budget')
+app.register_blueprint(item, url_prefix='/item')
+app.register_blueprint(purchase, url_prefix='/purchase')
 
 # allow for cross origin requests
 CORS(app)

@@ -14,8 +14,7 @@ def createItem():
         customer_id = params['client_id']
         purchase_id = int(params['purchase_id'])
         price = float(params['price'])
-        # category = params['category']
-        category = 'general'
+        category = 'General'
         name = params['name']
 
     try:
@@ -54,7 +53,7 @@ def getPurchaseItems(purchase_id):
 @item.route("/user/<customer_id>", methods=['GET'])
 def getAllItems(customer_id):
     try:
-        items = Item.query.select().where(customer_id=customer_id)
-        return jsonify(items.serialize())
+        items = Item.query.filter_by(customer_id=customer_id).all()
+        return jsonify(Item.serialize_list(items))
     except Exception as e:
         return(str(e))
